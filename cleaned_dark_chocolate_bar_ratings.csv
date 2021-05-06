@@ -1,0 +1,2275 @@
+,bean_country,cocoa_percent,ingredient_combination,memorable_characteristics,rating,total_ingredients
+0,Madagascar,0.76,BSC,"cocoa,blackberry,full bodied",3.75,3
+1,Dominican Republic,0.76,BSC,"cocoa,vegetal,savory",3.5,3
+2,Tanzania,0.76,BSC,"rich cocoa,fatty,bread",3.25,3
+3,Peru,0.63,BSCL,"fruit,melon,roast",3.75,4
+4,Bolivia,0.7,BSCL,"vegetal,nut",3.5,4
+5,Venezuela,0.7,BSCL,"oily,nut,caramel,raspberry",4.0,4
+6,Peru,0.63,BSC,"sweet,cocoa,tangerine",4.0,3
+7,Ecuador,0.7,BSCL,"sandy,nut,cocoa,fig",3.75,4
+8,Peru,0.7,BSCL,"cocoa,sour,intense tangerine",3.5,4
+9,Brazil,0.7,BSCL,mild tobacco,3.25,4
+10,Papua New Guinea,0.7,BSCL,"mild fruit,strong smoke",3.25,4
+11,Peru,0.7,BSCL,"green,nut,cocoa",3.25,4
+12,Madagascar,0.7,BSCL,"sticky,red fruit,sour",3.0,4
+13,Myanmar (aka Burma),0.7,BSCL,"sticky,smoke,grass",3.0,4
+14,Panama,0.7,BSCL,"brief fruit note,earth,nut",2.75,4
+15,Colombia,0.7,BSCL,"burnt rubber,alkalized note",2.75,4
+16,Peru,0.7,BSCL,"delicate,hazelnut,brownie",4.0,4
+17,Venezuela,0.7,BSCL,"astringent,nut,chocolate",3.75,4
+18,Cuba,0.7,BSCL,"slight dry,papaya",3.5,4
+19,Venezuela,0.7,BSCL,"nut,mild chocolate,roast",3.5,4
+20,Venezuela,0.7,BSCL,"harsh,leather,earth",2.75,4
+21,Togo,0.7,BSCL,"mild profile,chocolate,spice",3.5,4
+22,Peru,0.7,BSCL,"grainy texture,cocoa,sweet",3.5,4
+23,Togo,0.7,BSCL,"roast,acidic,nut",3.0,4
+24,Togo,0.7,BSCL,"burnt wood,earth,chocolate",2.75,4
+25,Sao Tome and Principe,0.63,BSCL,"sweet,chocolate,vegetal",3.75,4
+26,Peru,0.63,BSCL,"sweet,dairy,spice,cocoa",3.75,4
+27,Venezuela,0.7,BSCL,"alluring aroma,powdery,nut",3.5,4
+28,Peru,0.7,BS,yellow fruit,3.75,2
+29,Peru,0.7,BS,"intense,nut,cherry,cocoa",3.75,2
+30,Peru,0.7,BS,"hot cocoa,rich,molasses",3.5,2
+31,Mexico,0.74,BS,"herb,molasses,ham",3.25,2
+32,Fiji,0.88,BSC,"orange,floral,lemon",3.5,3
+33,Fiji,0.72,BSC,"cocoa,powerful tang",3.5,3
+34,Fiji,0.8,BSC,"spicy,like candy",3.25,3
+35,Fiji,0.6,BSC,"sweet,subtle strawberry",2.75,3
+36,Vanuatu,0.7,BS,"sandy,wood,spicy,sweet",3.0,2
+37,Vanuatu,0.7,BS,"basic,sweet,cocoa,wood",2.75,2
+38,Vanuatu,0.7,BS,"sweet,cocoa,rubber",2.75,2
+39,Vanuatu,0.7,BS,"unrefined,sweet,metal",2.5,2
+40,Ecuador,0.7,BSCV,"roast,nut,coffee",3.0,4
+41,Ecuador,0.55,BSCV,"sandy,sweet,banana cream",2.75,4
+42,Mexico,0.7,BSC,"gritty,spice,cocoa",3.0,3
+43,Madagascar,0.75,BSCL,"strong pepper,musty",2.75,4
+44,Brazil,0.75,BSCL,"fatty,intense,wood",2.75,4
+45,Indonesia,0.75,BSCL,"hay,nut,berry",3.75,4
+46,Venezuela,0.75,BSCVL,"sandy,dirt,ashy",2.5,5
+47,Peru,0.75,BSCVL,"cardboard,dirt,roast",2.5,5
+48,Madagascar,0.75,BSCVSa,"citrus,fatty,dairy",3.0,5
+49,Trinidad and Tobago,0.65,BSCVLSa,"roast,sweet,savory",2.75,6
+50,Vietnam,0.75,BSCVSa,"nut,roast,odd dairy",2.75,5
+51,Mexico,0.75,BSCVLSa,"strawberry,cream,gateway",3.5,6
+52,Ecuador,0.7,BSC,"sandy,green,floral",3.5,3
+53,Nicaragua,0.7,BSC,"sandy,sweet,nibs",3.5,3
+54,Tanzania,0.7,BSC,"sandy,melon,banana",3.5,3
+55,Vietnam,0.7,BSC,"sandy,sweet,roast",3.5,3
+56,Bolivia,0.8,BSCL,"gritty,berry,mild bitter",3.25,4
+57,Peru,0.6,BSCL,"gritty,too sweet,fruit",3.25,4
+58,Dominican Republic,0.6,BSCL,"sandy,sweet,dairy,spice",3.0,4
+59,Bolivia,0.6,BSCL,"gritty,sweet,caramel,fruit",3.0,4
+60,Venezuela,0.6,BSCL,"sweet,mold,off",2.5,4
+61,Peru,0.6,BSC,"dry,sweet,caramel",3.0,3
+62,Nicaragua,0.6,BSC,"powdery,sweet,molasses",2.75,3
+63,Ecuador,0.6,BSC,"sandy,nut,earth,roast",2.75,3
+64,Bolivia,0.6,BSC,"sandy,sweet,pungent",2.5,3
+65,Peru,0.6,BSC,"sandy,sweet,sour,off",2.5,3
+66,Dominican Republic,0.7,BSC,"sweet,coarse,nut",3.0,3
+67,Venezuela,0.7,BSCV,"spicy,strawberry",3.75,4
+68,Madagascar,0.7,BSCV,"spice,nut,cocoa,fruit",3.5,4
+69,Venezuela,0.7,BSCV,"waxy,nut,mint",3.0,4
+70,Indonesia,0.7,BSCV,"sticky,nut,high acidity",2.75,4
+71,Venezuela,0.7,BSCV,"hot spice,roast",3.0,4
+72,Ecuador,0.7,BSCV,"strong spice,intense pepper",4.0,4
+73,Dominican Republic,0.7,BSCV,"orange,cinnamon",3.75,4
+74,Venezuela,0.7,BSCV,"wood,red berry,sour",3.0,4
+75,Papua New Guinea,0.7,BSCV,"tart,lemon,smoke",4.0,4
+76,Ghana,0.7,BS,"dry,chalky,fudge",3.0,2
+77,Ghana,0.85,BS,"roast,odd sweet,marshmallow",3.0,2
+78,Ecuador,0.7,BS,"waxy,spicy",2.75,2
+79,Ecuador,0.85,BS,"fatty,mushroom,off note",2.75,2
+82,Peru,0.73,BSC,"oily,vegetal,nut,cocoa",3.5,3
+83,Peru,0.72,BSC,"oily,vanilla,melon,cocoa",3.25,3
+84,Peru,0.68,BS,"rich,sour,mild smoke",3.5,2
+85,Madagascar,0.66,BS,"fruit,sour",3.25,2
+86,Dominican Republic,0.75,BS,"high roast,high astringent",3.25,2
+87,Papua New Guinea,0.63,BS,"smoke,savory",3.25,2
+88,Venezuela,0.7,BS,"sandy,roast,nut",3.25,2
+89,Belize,0.64,BSCL,"roast,brownie,nut",3.0,4
+90,Multiple Countries,0.66,BSCV,"red wine,rich cocoa,long",3.75,4
+91,Venezuela,0.7,BSCV,"creamy,fruit,cocoa",3.75,4
+92,Grenada,0.7,BSCV,"fruit , coffee note",3.5,4
+93,Trinidad and Tobago,0.7,BSCV,"coffee,fruit,woodsy",3.5,4
+94,Multiple Countries,0.63,BSCV,"fatty,dairy,caramel,cocoa",3.5,4
+95,Ecuador,0.7,BSCV,"creamy,earth,vegetal",3.0,4
+96,Jamaica,0.7,BSCV,"sandy,wood,spicy",3.0,4
+97,Peru,0.7,BSCV,"creamy,raspberry,nut",3.75,4
+98,Multiple Countries,0.75,BSCV,"sweet,delicate,complex",3.5,4
+99,Madagascar,0.7,BSCV,"vanilla,mint,roast",3.0,4
+100,Venezuela,0.7,BSCV,"vanilla,nut,roast",3.0,4
+101,Venezuela,0.7,BSCV,"nut,mild roast,vanilla",3.0,4
+102,Multiple Countries,0.7,BSC,"nut,fatty,rubber,rich",2.75,3
+103,Brazil,0.6,BSCL,"creamy,sweet,cocoa,banana",4.0,4
+104,Brazil,0.5,BSCL,"very sweet,bright red,banana",3.75,4
+105,Brazil,0.75,BSCL,"roast,fatty,nut,coffee",3.75,4
+106,Brazil,0.85,BSCL,"creamy,red berry,bitter",2.75,4
+107,Brazil,0.75,BSCL,"grainy,sweet,poor aftertaste",3.25,4
+108,Dominican Republic,0.75,BS,"chalky,mild fruit,burnt",3.0,2
+109,Bolivia,0.75,BS,"light roast,caramel,cocoa",3.5,2
+110,Madagascar,0.75,BSC,"sandy,fruit,short",3.0,3
+111,Venezuela,0.75,BSC,"nut,mild spice,mild earth",3.0,3
+112,Ecuador,0.75,BSC,"bitter,floral,leather",2.75,3
+113,Mexico,0.72,BSC,"earth,sour milk,leather",2.5,3
+114,Nicaragua,0.7,BS,"creamy,sticky,peanut butter",4.0,2
+115,Ecuador,0.7,BS,"spicy,cocoa",3.75,2
+116,Belize,0.7,BS,"floral,strawberry,metal",3.75,2
+117,Brazil,0.7,BS,"creamy,rich,rum,roast",3.5,2
+118,Peru,0.68,BS,"floral,nut,rich cocoa",3.5,2
+119,Dominican Republic,0.7,BS,"spicy,brownie,nut",3.5,2
+120,Ecuador,0.75,BSC,"intense,floral,bourbon",3.5,3
+121,Guatemala,0.7,BS,"strawberry,butterscotch,off",3.25,2
+122,Brazil,0.75,BS,"floral,chemical off",2.75,2
+123,Costa Rica,0.7,BS,"balanced,cherry,chocolate",4.0,2
+124,Peru,0.7,BS,"creamy,complex,balanced",4.0,2
+125,Tanzania,0.7,BS,"appealing smoke,wood",3.75,2
+126,Nicaragua,0.7,BSC,"muddy,rich cocoa,raspberry",3.75,3
+127,Dominican Republic,0.7,BS,"dark berry,chocolate",3.75,2
+128,Trinidad and Tobago,0.7,BS,"delicate,simple",3.5,2
+129,Vietnam,0.73,BSC,"cashew,roast,chunky melt",3.5,3
+130,Guatemala,0.7,BS,"subtle,mysterious",3.5,2
+131,Honduras,0.7,BS,"nut,green",3.5,2
+132,Ecuador,0.7,BSC,"sticky,floral,roast",3.25,3
+133,Ecuador,0.7,BSC,"chewy,mild floral",3.25,3
+134,Fiji,0.7,BS,"smoke,ham,cocoa base",3.25,2
+135,Vietnam,0.73,BS,"earth,nut,cardboard",3.25,2
+136,Bolivia,0.7,BS,"creamy,bright fruit",4.0,2
+137,Haiti,0.7,BS,"long lasting,cocoa",4.0,2
+138,India,0.7,BS,"slight roast,basic cocoa",3.5,2
+139,Madagascar,0.7,BSC,sour fruit,3.5,3
+140,Vietnam,0.73,BSC,"rich cocoa,mild roast",3.5,3
+141,Peru,0.7,BSC,"dried fruit,fig,anise",3.5,3
+142,Colombia,0.7,BS,"smooth,nut,cocoa",4.0,2
+143,Trinidad and Tobago,0.7,BS,"nut,dried fruit,short",3.0,2
+144,India,0.7,BSC,"herb,mushroom,acidic",3.25,3
+145,India,0.7,BSC,"burnt butterscotch,rubber",3.0,3
+146,Nicaragua,0.7,BS,"smooth,vegetal",3.5,2
+147,Nicaragua,0.7,BS,"roast,rich cocoa",3.5,2
+148,Nicaragua,0.7,BS,"melon,late ham",3.25,2
+149,Nicaragua,0.7,BS,"cocoa,earth,ham",3.0,2
+150,Republic of the Congo,0.72,BSC,"spicy,mint,vegetal",3.75,3
+151,Dominican Republic,0.72,BSC,"spice,cocoa,short",3.25,3
+152,Madagascar,0.8,BSC,"slight bitter,cherry,rich",3.0,3
+153,Peru,0.75,BSC,"spice,mild metal",3.0,3
+154,Indonesia,0.72,BSC,"gritty,very smoke,sour",2.75,3
+155,Venezuela,0.75,BSC,"oily,nut,burnt,sour",2.5,3
+156,Brazil,0.72,BSC,"cocoa,dominant off note",1.75,3
+157,Jamaica,0.72,BSC,"grass,black licorice,mint",3.75,3
+158,Indonesia,0.72,BSC,"black pepper,banana",3.5,3
+159,Costa Rica,0.72,BSC,"chewy,grass,nut",3.25,3
+160,Vietnam,0.72,BSC,"unrefined,distinct spice",3.25,3
+162,Haiti,0.72,BSC,"nut,butterscotch,brownie",4.0,3
+163,Panama,0.72,BSC,"black pepper,chemical,rubber",2.75,3
+164,Colombia,0.72,BSC,"marshmallow,roast,nut",3.75,3
+165,Trinidad and Tobago,0.72,BSC,"gritty,nut",3.25,3
+166,Colombia,0.72,BSCL,"creamy,marshmallow,off",2.75,4
+167,Ecuador,0.7,BS,"smooth,astringent,cocoa",3.0,2
+168,Mexico,0.75,BS,"leather,black licorice,off",2.5,2
+169,Philippines,0.77,BS,"strawberry,mild tart,roast",3.75,2
+170,Tanzania,0.72,BS,"creamy,wood,cocoa",3.75,2
+171,Honduras,0.7,BS,"grape,wood,roast",3.75,2
+172,Tanzania,0.68,BSC,"creamy,rich,blueberry",3.75,3
+173,Solomon Islands,0.7,BSCL,"off aroma,vegetal,honey,sandy",3.0,4
+174,Philippines,0.7,BSC,"long,bright fruit,sweet,sour",3.5,3
+175,Philippines,0.7,BSC,"waxy,dried fruit",3.0,3
+176,Philippines,0.7,BSC,"sandy,roast,nut",3.0,3
+177,Philippines,0.77,BSVL,"sandy,vanilla",2.75,4
+178,Madagascar,0.7,BS,"unrefined,flat,grass",3.0,2
+179,Brazil,0.7,BS,"chalky,intense,chemical",2.5,2
+180,Multiple Countries,0.7,BS,"chalky,fragrant,then off",2.5,2
+181,Papua New Guinea,0.7,BS,"smoke,ham,papaya",3.5,2
+182,Multiple Countries,0.8,BS,"coarse,smoke,metal",3.25,2
+183,Brazil,0.7,BS,"bland,sugar,large grits",3.0,2
+184,Peru,0.7,BSC,"black pepper,cardamom",3.5,3
+185,Peru,0.7,BSC,"molasses,caramel,pungent",2.75,3
+186,Tanzania,0.72,BSC,"base cocoa,mild fruit,roast",3.25,3
+187,Uganda,0.82,BSC,"bitter,fatty,mild fruit",2.75,3
+188,Belize,0.72,BSC,"gritty,fatty,sour,off",2.5,3
+189,Madagascar,0.7,BS,"raspberry,mild sour",3.75,2
+190,Mexico,0.7,BS,"molasses,toffee,coffee grounds",3.5,2
+191,Dominican Republic,0.7,BS,"complex,black pepper,coffee",3.25,2
+192,Peru,0.7,BS,"creamy,rounded,orange",4.0,2
+193,Brazil,0.7,BS,"intense,smoke,dried fruit",3.5,2
+194,Costa Rica,0.72,BS,"slight dry,cocoa,berry",3.5,2
+195,Trinidad and Tobago,0.8,BS,"intense,tang,alcohol",3.5,2
+196,Costa Rica,0.8,BSCV,"gritty,floral,vanilla",2.75,4
+197,Brazil,0.7,BSC,"strawberry,candy flavor",3.75,3
+198,Dominican Republic,0.65,BSC,"creamy,sweet,fudge",3.5,3
+199,Ecuador,0.65,BSC,"sandy,floral,sweet",3.25,3
+200,Peru,0.7,BSCV,"strong vanilla,off note",2.25,4
+201,Malaysia,0.72,BSC,"smoke,wood,tobacco",3.25,3
+202,Malaysia,0.73,BSC,"caramel,spice,earth",3.0,3
+203,Brazil,0.8,BSC,"intense,bitter,dry",2.75,3
+204,Dominican Republic,0.7,BSC,"sandy,sweet,molasses",2.75,3
+205,Ecuador,0.7,BSC,"intense,floral,black pepper",2.75,3
+206,Ecuador,0.9,BSC,"intense floral,bitter,earth",2.75,3
+207,Ecuador,0.71,BSCL,"dry,cinnamon,nutmeg",3.5,4
+208,Costa Rica,0.64,BSCL,"pasty,nut",2.75,4
+209,Papua New Guinea,0.64,BSCL,"intense,smoke",2.75,4
+210,Peru,0.64,BSCL,"sticky,moss,nut",2.75,4
+211,Tanzania,0.7,BSC,"sticky,delicate,melon",3.5,3
+212,Dominican Republic,0.7,BS,"caramel,mild dried fruit",3.5,2
+213,Bolivia,0.7,BSC,"oily,complex,pungent",3.25,3
+214,Vietnam,0.75,BSC,"high acidity,nut,roast",3.25,3
+215,Belize,0.83,BSC,"balanced,complex,berry",3.5,3
+216,Belize,0.78,BSC,"sweet,nibs,green",3.0,3
+217,Belize,0.83,BSC,"unbalanced,tang,pungent",2.75,3
+218,Vietnam,0.72,BSCL,"gummy,roast,fatty",3.0,4
+219,India,0.72,BSCL,"gummy,fatty,sour",3.0,4
+220,Malaysia,0.72,BSCL,"off aroma,smoke,off note",3.0,4
+221,Indonesia,0.72,BSC,"smoke,raspberry,cocoa",4.0,3
+222,Madagascar,0.72,BSC,"intense,red berry,strawberry",3.75,3
+223,Ecuador,0.73,BSC,"cinnamon,nutmeg",4.0,3
+224,Cuba,0.74,BSC,"tobacco,dairy,sour",3.5,3
+225,Venezuela,0.74,BSC,"mocha,intense,sweet",3.5,3
+226,Venezuela,0.74,BSC,"nut,roast,dairy",3.5,3
+227,Multiple Countries,0.55,BSCVL,"sweet,vanilla,cocoa",2.75,5
+228,Indonesia,0.64,BSC,"ham,smoke,banana",3.5,3
+229,Venezuela,0.72,BSC,"dark cocoa,spicy pepper",3.5,3
+230,Venezuela,0.7,BSC,"creamy,macadamia,pepper",3.25,3
+231,Venezuela,0.74,BSC,"nut,light toffee,mild musty",3.25,3
+232,Ecuador,0.72,BSC,"creamy,nut,cocoa",4.0,3
+233,Venezuela,0.72,BSC,"creamy,banana,rich",3.5,3
+234,Madagascar,0.64,BSC,"chunky,nut,banana",3.0,3
+235,Venezuela,0.88,BSC,"bitter then nut rustic,earth",3.0,3
+236,Belize,0.86,BSCV,"mild bitter,diluted,vanilla",3.25,4
+237,Nicaragua,0.76,BS,"bitter,molasses,flour",2.5,2
+238,Costa Rica,0.76,BS,"molasses,metal,earth",2.5,2
+239,Costa Rica,0.78,BSCV,"sour,tart,molasses",2.5,4
+240,Venezuela,0.7,BSCL,"smooth texture,earth,nut",3.5,4
+241,Venezuela,0.7,BSCL,"gritty,spicy,earth",3.0,4
+242,Venezuela,0.7,BSCL,"fatty,bland,nut",3.0,4
+243,Dominican Republic,0.68,BS,"nut,astringent",3.75,2
+244,Panama,0.75,BS,"intense,rum,tea",3.5,2
+245,Madagascar,0.71,BS,"rich cocoa,red berry,sour",3.0,2
+246,Ghana,0.7,BS,"nutmeg,sour",3.0,2
+247,Dominican Republic,0.65,BS,"intense marshmallow,cocoa",3.5,2
+248,Madagascar,0.65,BS,chocolate covered cherry,3.5,2
+249,Madagascar,0.75,BS,"rustic,red berry,wood",3.25,2
+250,Dominican Republic,0.75,BS,"chalky,strong,harsh smoke",3.0,2
+251,Multiple Countries,0.7,BS,"robust,cocoa,fruit",3.75,2
+252,Indonesia,0.75,BS,"dry,cardamom,medicinal",3.25,2
+253,Madagascar,0.7,BS,"red berry,strong wine,sour",3.0,2
+254,Venezuela,0.78,BS,"nut,mild bitter",3.0,2
+255,Indonesia,0.65,BS,"pasty,off spice,nut",2.75,2
+256,Ghana,0.72,BSC,"roasted nut,rich,roast",3.5,3
+257,Dominican Republic,0.7,BS,"sweet,sour milk",3.25,2
+258,Haiti,0.7,BS,"floral,molasses,chemical",3.0,2
+259,Guatemala,0.7,BS,"molasses,earth,spicy",3.0,2
+260,Belize,0.7,BS,"off,rubber,burnt molasses",2.75,2
+261,Nicaragua,0.7,BSC,"rich,leather,woodsy",3.0,3
+262,Dominican Republic,0.7,BSC,"unrefined,fruit",2.75,3
+263,Venezuela,0.7,BSC,"sweet grass,muted spice",2.75,3
+264,Jamaica,0.7,BSCL,"fatty,nut",2.75,4
+265,Multiple Countries,0.72,BSCV,"oily,flat,wood,sour",2.75,4
+266,Republic of the Congo,0.82,BSCV,"complex,fruit,mild bitter",3.5,4
+267,Madagascar,0.7,BSC,"gritty,tart red berry,powerful",3.75,3
+268,Guatemala,0.7,BSC,"chewy,complex,black pepper",3.5,3
+269,Madagascar,0.82,BS,"sandy,tart,sour,sweet",3.5,2
+270,Tanzania,0.75,BS,"bread,melon",3.5,2
+271,Dominican Republic,0.75,BS,"astringent,sour,coffee",3.0,2
+272,Guatemala,0.75,BS,"roast,coffee,earth",2.75,2
+273,Belize,0.7,BSC,pungent off flavor,2.75,3
+274,Malaysia,0.74,BS,"grass,savory,sour",3.25,2
+275,Malaysia,0.72,BS,"sweet,fruit,chemical off note",2.75,2
+276,Malaysia,0.68,BS,"sweet,dirt,off note",2.5,2
+277,Venezuela,0.75,BSC,"creamy,fatty,floral",4.0,3
+278,Venezuela,0.75,BSC,"creamy,coconut,tang",4.0,3
+279,Multiple Countries,0.75,BSC,"spice,woodsy,long lasting",3.75,3
+280,Venezuela,0.75,BSC,"sandy,creamy,berry",3.75,3
+281,Madagascar,0.75,BSC,"mellow,tart,coffee",3.75,3
+282,Sri Lanka,0.75,BSC,"vegetal,dominant tobacco",3.0,3
+284,Ecuador,0.75,BSC,"dry,floral,bitter",2.5,3
+285,Venezuela,0.75,BSC,"creamy,strawberry,nut",4.0,3
+286,Côte d’Ivoire (aka Ivory Coast),0.75,BSC,"oily,intense cocoa,slight burnt",3.0,3
+287,Mexico,0.75,BSC,"mild bitter,nut,possible mold",3.0,3
+288,Mexico,0.75,BSC,"fatty,roast,earth",3.0,3
+289,Peru,0.75,BSC,"flat,bread,earth",2.75,3
+290,Haiti,0.75,BSC,"grass,black pepper",4.0,3
+291,Madagascar,0.75,BSC,"fatty,spicy,gentle roast",4.0,3
+292,Brazil,0.75,BSC,"chunky,very grass,mild mint",3.75,3
+293,Cuba,0.75,BSC,"fatty,raisin,grape",3.5,3
+294,Peru,0.75,BSC,"roast,wood,mint",3.5,3
+295,Peru,0.75,BSC,"creamy,cocoa,smoke",3.5,3
+296,Brazil,0.75,BSC,"oily,fatty,rich,nut",3.5,3
+297,Jamaica,0.75,BSC,"oily,creamy,wood",3.25,3
+298,Brazil,0.75,BSC,"oily,roasted nut,rich cocoa",3.5,3
+299,Gabon,0.75,BSC,"fatty,roast,black pepper",3.25,3
+300,Brazil,0.75,BSC,"creamy,homey,nut",4.0,3
+301,Multiple Countries,0.65,BSC,"complex,brownie,mint,spice",3.75,3
+302,Dominican Republic,0.75,BSC,"roast,tobacco,earth",3.25,3
+303,Mexico,0.75,BSC,"heavy roast,fatty,gateway",3.5,3
+304,Peru,0.75,BSC,"oily,subtle,mild coffee",4.0,3
+305,Multiple Countries,0.75,BSC,"creamy,rich,complex",4.0,3
+306,Ecuador,0.77,BS,"sticky,lavender,molasses",3.25,2
+310,Peru,0.7,BSC,"sweet,rich mocha,acidic",3.75,3
+311,Ecuador,0.75,BSC,"balanced,floral,honey",3.5,3
+312,Tanzania,0.62,BSC,"very sweet,melon,caramel",3.0,3
+313,Ghana,0.75,BSCVL,"fatty,brownie,nut",3.5,5
+314,Venezuela,0.85,BSCVL,"intense,cooked banana",3.5,5
+315,Ecuador,0.7,BSCVL,"intense,alcohol,floral",3.25,5
+316,Dominican Republic,0.72,BSCVL,"oily,vanilla,caramel,dairy",3.0,5
+317,Venezuela,0.7,BSC,"intense,raisin,roast",4.0,3
+318,Belize,0.7,BSC,"intense,cocoa,complex",3.75,3
+319,Dominican Republic,0.68,BSC,"complex,brownie,lime,rich",3.75,3
+320,Nicaragua,0.7,BSC,"simple,rich cocoa",3.75,3
+321,Venezuela,0.7,BSC,"nut,slight ham,rich",3.5,3
+322,Ecuador,0.75,BSC,"sandy,floral,honey",3.75,3
+323,Dominican Republic,0.7,BSC,"earth,cherry",3.25,3
+324,Bolivia,0.7,BSC,"nut,fruit",4.0,3
+325,Guatemala,0.7,BS,"tart,tea,leather,sour",3.5,2
+326,Dominican Republic,0.8,BSC,"bitter,dark berry,fatty",3.25,3
+327,Belize,0.8,BSC,"mild smoke,raisin,coffee",3.25,3
+328,Madagascar,0.6,BSC,"citrus,sweet,cocoa",3.25,3
+329,Dominican Republic,0.6,BSC,"roast,sweet,brownie",3.0,3
+330,Madagascar,0.8,BSC,"bitter,tart,acidic",2.75,3
+331,Jamaica,0.7,BSCV,"chalky,sandy,tart,bland",3.0,4
+332,Dominican Republic,0.7,BSC,"spicy,black pepper,banana",3.5,3
+333,Ecuador,0.72,BSC,"floral,banana",3.5,3
+334,Madagascar,0.72,BSC,"sweet,mild molasses,bland",3.0,3
+335,Trinidad and Tobago,0.68,BSC,"fatty,sweet,metal",2.75,3
+336,Ecuador,0.7,BS,"powdery,floral,molasses",3.25,2
+337,Dominican Republic,0.68,BSC,"gritty,sweet,brownie",2.75,3
+338,Guatemala,0.7,BSC,"roast,under refined",3.0,3
+339,Bolivia,0.7,BSC,"dirt,earth,floral",2.5,3
+340,Ecuador,0.72,BSC,"floral,mild citrus,orange",3.5,3
+341,Trinidad and Tobago,0.72,BSC,"high roast,coffee,spicy",3.25,3
+342,Belize,0.72,BSC,"roast,fruit,mild metal",3.25,3
+343,Multiple Countries,0.72,BSC,"coffee,high roast,spicy",3.25,3
+344,Ecuador,0.6,BSC,"sweet,sour dairy",2.5,3
+345,Ecuador,0.7,BS,"smoke,sour",3.0,2
+346,Philippines,0.7,BS*,"base cocoa , palm note",3.5,2
+347,Taiwan,0.7,BS*,"molasses,sour note",3.25,2
+348,Bolivia,0.7,BSCL,subtle but refreshing,3.75,4
+349,Guatemala,0.7,BSCL,"vegetal,unique",3.5,4
+350,Guatemala,0.7,BSCL,"off pungent,grass,melon",3.0,4
+351,Puerto Rico (United States Territory),0.7,BS,"dirt,floral,sweet",2.5,2
+352,Dominican Republic,0.75,BS,"creamy,burnt wood",2.75,2
+353,Dominican Republic,0.75,BS,"oily,butter,intense",2.5,2
+354,Venezuela,0.75,BS,"overly roasted,bitter,nut",2.25,2
+355,Peru,0.75,BS,"roast,almost burnt,intense",2.5,2
+356,Mexico,0.66,BSCVL,"creamy,wood,cocoa",3.0,5
+357,Venezuela,0.72,BSCVL,"sandy,dairy,cocoa",2.0,5
+358,Tanzania,0.75,BSCVL,"dry,flat flavor,astringent",2.0,5
+359,Dominican Republic,0.7,BSCVL,"spice,fruit medley,roast",3.0,5
+360,Haiti,0.65,BSCVL,"gritty,sweet,citrus",3.5,5
+361,Colombia,0.72,BS,"light color,creamy,hazelnut",3.75,2
+362,Colombia,0.72,BS,"light color,dirt,astringent",3.0,2
+363,Colombia,0.72,BS,"light color,dirt,musty",2.5,2
+364,Venezuela,0.7,BS,"fruit,nut,brownie",3.75,2
+365,Venezuela,0.75,BS,"bright fruit,strawberry",3.5,2
+366,Venezuela,0.74,BS,"nut,intense,leather",3.25,2
+367,Venezuela,0.75,BS,"intense,earth,fuel",2.5,2
+368,Venezuela,0.77,BS,"assertive,fruit,acidic",3.5,2
+369,Venezuela,0.74,BS,"intense,black licorice,nut",3.25,2
+370,Venezuela,0.75,BS,"spicy,nut,ends sour",3.25,2
+371,Venezuela,0.75,BS,"sandy,chalky,earth",2.75,2
+372,Venezuela,0.7,BS,"raspberry,dirt,sour",3.0,2
+373,Venezuela,0.75,BS,"high astringent,sandy,grass",2.5,2
+374,Venezuela,0.7,BS,"poor texture,earth",3.0,2
+375,Colombia,0.64,BSCL,"intense,marshmallow,fruit",3.5,4
+376,Colombia,0.7,BSCL,"earth,wood,smoke",3.5,4
+377,Colombia,0.7,BSCL,"intense,spice",3.25,4
+378,Colombia,0.69,BSCL,"green,vegetal,soil,fuel",2.75,4
+379,Colombia,0.72,BSC,"rich,nut,acidic",3.75,3
+380,Colombia,0.71,BSC,"distinct,short,dried fruit",3.75,3
+381,Colombia,0.74,BSC,"mild cocoa,astringent",3.75,3
+382,Honduras,0.7,BSCL,"deep cocoa,fatty,dairy",3.5,4
+383,Dominican Republic,0.66,BS,"creamy,blueberry,black pepper",3.75,2
+384,Dominican Republic,0.65,BS,"rustic,gritty,sweet,fruit",3.25,2
+385,Dominican Republic,0.72,BS,"rustic,sweet,one dimensional",3.0,2
+386,Dominican Republic,0.72,BS,"oily,cherry,rich cocoa",3.75,2
+387,Mexico,0.7,BSCL,distinct lemon,4.0,4
+388,Mexico,0.7,BSCL,"creamy,nut,banana,rich",4.0,4
+389,Papua New Guinea,0.71,BSCL,"creamy,mild spice,cocoa",4.0,4
+390,Ecuador,0.71,BSCL,"creamy,mild spice,hazelnut",3.75,4
+391,Madagascar,0.71,BSCL,"creamy,earth,dark roast",3.5,4
+392,Venezuela,0.71,BSCL,"gritty,fudge,nut",3.5,4
+393,Venezuela,0.77,BSCL,"intense,roast,rich cocoa",3.5,4
+394,Grenada,0.71,BSCL,"silky,""andes"" mint,off nut",3.25,4
+395,Republic of the Congo,0.7,BSCL,"rich,cherry,acidic",3.5,4
+396,Ecuador,0.72,BSCV,"cocoa base,sweet,earth",3.0,4
+397,Dominican Republic,0.72,BSCV,"cocoa butter dominant,cocoa",2.75,4
+398,Peru,0.72,BSCV,"intense,sweet,vanilla dominant",2.75,4
+399,Vietnam,0.7,BS,"balanced,dairy,spicy",3.5,2
+400,Peru,0.7,BS,"dried fruit,sour,nutella",3.25,2
+401,Madagascar,0.7,BS,"sour milk,off,late tart",3.0,2
+405,Peru,0.7,BS,"ripe grape,very acidic",3.0,2
+406,Peru,0.7,BS,"gritty,molasses",3.25,2
+407,Ecuador,0.63,BSCL,"sandy,sweet,bold citrus",3.5,4
+408,Ecuador,0.71,BSCL,"dry,spicy,fruit",3.5,4
+409,Ecuador,0.82,BSCL,"cloying,fatty,bitter",2.5,4
+410,Ecuador,0.91,BSCL,"clingy,hint of fruit,very bitter",1.5,4
+413,Trinidad and Tobago,0.7,BS,"burnt coffee,fatty",2.5,2
+414,Sao Tome and Principe,0.78,BS,burnt up front,2.25,2
+415,Venezuela,0.8,BS,"nut,ashy,coffee",3.0,2
+416,Ecuador,1.0,B,"fatty,controlled bitter,fruit",3.5,1
+417,Multiple Countries,0.7,BS,"oily surface,berry,cream",3.5,2
+418,Dominican Republic,0.72,BS,"intense,fatty,brownie",3.0,2
+419,Cuba,0.75,BS,"intense,ashy,earth",2.5,2
+420,Brazil,0.7,BSC,"dairy,chocolate,mild fruit",3.25,3
+421,Venezuela,0.7,BSC,"strong nut , off note",3.0,3
+422,Bolivia,0.75,BSC,"sandy,bold,cherry",3.0,3
+423,Tanzania,0.73,BSC,"sweet,acidic,fatty",2.75,3
+424,Venezuela,0.75,BSC,"nut,burnt,fuel",2.5,3
+425,Ecuador,0.55,BSCL,"sandy,sweet,spicy",3.5,4
+426,Ecuador,0.55,BSCL,"sticky,sweet,grass",3.25,4
+427,Ecuador,0.55,BSCL,"sweet,floral,yogurt",3.0,4
+428,Ecuador,0.77,BSCL,"crumbly,cinnamon",2.75,4
+429,Ecuador,0.77,BSCL,"perfume,chemical off note",2.5,4
+430,Ecuador,0.77,BSCL,"grainy,intense,bitter",2.0,4
+431,Papua New Guinea,0.7,BSC,"tart,malt,mild smoke",3.75,3
+432,Papua New Guinea,0.7,BSC,"mild smoke,melon",3.5,3
+433,Costa Rica,0.72,BS,"fatty,wood,coffee",3.0,2
+434,Costa Rica,0.8,BS,"fatty,fruit,muted",2.75,2
+435,Guatemala,0.72,BSC,"wood,spicy,tobacco",3.5,3
+436,Costa Rica,0.72,BS,"acidic,astringent,spicy",3.5,2
+437,Costa Rica,0.72,BS,"floral,earth,acidic",3.25,2
+438,Colombia,0.65,BSC,"overly sweet,mild spice",3.5,3
+439,Colombia,0.65,BSC,"sweet,grass,nut",3.5,3
+440,Colombia,0.65,BSC,"nut,grainy,late chocolate",3.25,3
+441,Colombia,0.65,BSC,"mild smoke,sweet edge",3.25,3
+442,Colombia,0.65,BSC,"sweet,marshmallow",3.0,3
+443,Multiple Countries,0.75,BS,"off note,vanilla",2.0,2
+444,Brazil,0.65,BS,"molasses,rich,vegetal",3.25,2
+445,Brazil,0.71,BS,"sandy,intense,sweet,rich",3.0,2
+446,Dominican Republic,0.73,BS,"sandy,mild intense,fruit",3.5,2
+447,Venezuela,0.7,BSC,"sandy,nut,cocoa",3.25,3
+448,Nicaragua,0.72,BSC,"sandy,molasses,spice",3.25,3
+449,Bolivia,0.7,BSC,"sandy,tobacco,molasses",3.0,3
+450,Venezuela,0.72,BSC,"mild metal,spice",3.0,3
+451,Peru,0.7,BSC,"molasses,cocoa",2.75,3
+452,Peru,0.7,BSC,"sandy,fruit,acidic,metal",2.5,3
+453,Colombia,0.72,BSC,"caramel,molasses,fruit",3.5,3
+454,Colombia,0.76,BSC,"caramel,sweet,delicate",3.5,3
+455,Dominican Republic,0.7,BSC,"soap,earth",2.75,3
+456,Dominican Republic,0.7,BSC,"medium roast,grass,dried fruit",3.75,3
+457,Honduras,0.72,BSC,"roast,black pepper,nut",3.5,3
+458,Venezuela,0.72,BSC,"nut,floral,roast",3.5,3
+459,Belize,0.72,BSC,"bright fruit,molasses,nut",4.0,3
+460,Venezuela,0.7,BS,"nut,roast,caramel",3.25,2
+461,Mexico,0.7,BSC,"smooth,caramel,dried fruit",3.75,3
+462,Puerto Rico (United States Territory),0.7,BSC,"smooth,mellow,floral",3.5,3
+463,Bolivia,0.7,BSC,"creamy,wood,slight cherry",3.0,3
+464,Peru,0.7,BSC,"mild fruit,off note",2.75,3
+465,Venezuela,0.7,BSC,"nut,roast,smoke",2.75,3
+466,Ecuador,0.7,BSC,"burnt rubber,leather",2.5,3
+468,Uganda,0.7,BSC,"sandy,roast,coffee",2.75,3
+469,Bolivia,0.74,BS,"dark roast,rich cocoa",3.0,2
+470,Venezuela,0.68,BSC,"butter,roast,cocoa,nut",3.5,3
+471,Belize,0.7,BSC,"slight metal,wood,berry",3.25,3
+472,Ecuador,0.75,BSC,"dry,sandy,cocoa",3.0,3
+473,Ecuador,0.55,BSC,"very sweet,very spice",2.75,3
+474,Costa Rica,0.7,BSC,"green,leafy",3.5,3
+475,Peru,0.72,BSC,"spicy,chocolate,atypical",3.0,3
+476,Ecuador,0.72,BSC,"slight chalky,floral,pure",3.5,3
+478,Ecuador,0.7,BSC,"floral,earth",3.25,3
+479,Belize,0.82,BS,"powdery,bland,mild chocolate",3.25,2
+480,Belize,0.75,BS,"bland,mild chocolate , leather",3.0,2
+481,Malaysia,0.7,BS,"high roast,banana raspberry",3.5,2
+482,Vietnam,0.7,BS,"roast,sour milk,off note",2.75,2
+483,Dominican Republic,0.71,BSC,"chunky,spicy,rubber",3.25,3
+484,Nicaragua,0.72,BSC,"grass,rubber",2.5,3
+485,Peru,0.65,BS,"flat,floral,medicinal",2.75,2
+486,Peru,0.65,BS,"flat,metal,floral",2.5,2
+487,Dominican Republic,0.8,BS,"spicy,earth off note",2.5,2
+488,Madagascar,0.74,BS,"sugar dominant,molasses",3.0,2
+489,Madagascar,0.7,BS,"mild,fruit then nut",3.75,2
+490,Venezuela,0.68,BS,"mild,earth,grass",3.75,2
+491,Peru,0.9,BS*,"sticky,bitter,molasses,tart",2.5,2
+492,Multiple Countries,0.8,BS*,"sticky,coconut,sour,bitter",2.5,2
+493,Ecuador,0.7,BS,"molasses,tart,floral",3.25,2
+494,Dominican Republic,0.6,BS,"gritty,sweet,molasses",3.0,2
+495,Dominican Republic,0.75,BS,"sandy,rich,roast,earth",3.0,2
+496,Venezuela,0.8,BS,"gritty,nut,caramel",3.0,2
+497,Uganda,0.7,BS,"roast,cocoa,molasses",2.75,2
+498,Nicaragua,0.8,BS,"nut,roast,bitter",2.75,2
+499,Bolivia,0.7,BS,"gritty,molasses,earth",2.5,2
+500,Peru,0.74,BS*C,"unrefined,odd,vegetal",2.75,3
+501,Peru,0.8,BSC,"nut,coffee,peanut butter",3.75,3
+502,Republic of the Congo,0.68,BSC,"bold,rich cocoa,coffee",3.5,3
+503,Dominican Republic,0.75,BSC,"earth,coffee,mild,tang",3.25,3
+504,Madagascar,0.72,BSC,"tart,bright fruit,sour coffee",3.25,3
+505,Peru,0.68,BSC,"sandy,sweet,cocoa",2.75,3
+506,Ecuador,0.82,BSC,"sandy,fruit,burnt",2.5,3
+507,Peru,0.7,BS,"intense orange,floral note",3.75,2
+508,Peru,0.69,BSC,"floral,orange,cocoa",3.75,3
+509,Venezuela,0.8,BS,"mild bitter,fruit,spice",3.75,2
+510,Dominican Republic,0.72,BSC,"spicy,banana",3.25,3
+511,India,0.7,BSC,"nut,honey,grass",3.0,3
+512,Mexico,0.7,BSCV,"fatty,vanilla,mass market",2.5,4
+513,Guatemala,0.76,BS,"high astringent,fruit,roast",2.75,2
+514,Peru,0.7,BS,"sandy,sweet",2.75,2
+515,India,0.63,BSC,"sandy,tart,ham,sweet",2.5,3
+518,Mexico,0.75,BSC,"grainy,sweet,whole bean",3.25,3
+519,Multiple Countries,0.7,BSCL,"sweet,marshmallow",3.0,4
+520,Ecuador,0.71,BSCL,"earth,floral,mild bitter",2.5,4
+521,Grenada,0.71,BSCL,"sweet,cardboard",2.5,4
+522,Venezuela,0.71,BSCL,"long lasting,cocoa base",3.5,4
+523,Multiple Countries,0.6,BSCL,"chewy,fudge,perfume",3.25,4
+524,Multiple Countries,0.75,BSCL,"oily,grass,mint",3.25,4
+525,Madagascar,0.71,BSCL,"spice,cocoa",3.5,4
+526,Mexico,0.71,BSCL,"earth,sweet",3.25,4
+527,Mexico,0.65,BS,"coarse,sweet,sour,leather",2.5,2
+528,Mexico,0.75,BS,"gritty,mild bitter,off note",2.5,2
+529,Brazil,0.7,BSCV,"oily,muted,fruit",3.0,4
+530,Brazil,0.8,BSCV,"roast,tart,slight burnt",3.0,4
+531,Venezuela,0.7,BSCV,"slow,fatty,subdued,nut",3.0,4
+532,Mexico,0.7,BSCV,"fatty,cigarette butt,coffee",2.75,4
+533,Venezuela,0.8,BSCV,"dry,ashy,medicinal",2.5,4
+534,Madagascar,0.67,BS,"cherry,perfect balanced roast",4.0,2
+535,Venezuela,0.75,BS,"mild lemon,cocoa,crisp nibs",3.75,2
+536,Belize,0.7,BS,"fruit,honey,cocoa,roast",3.75,2
+537,Guatemala,0.7,BS,"rich,raisin,molasses",3.5,2
+538,Martinique (French Territory),0.42,BSVL,"gritty,sweet,hot cocoa",2.75,4
+539,Peru,0.7,BS,"sweet,sandy,spicy",2.75,2
+540,Peru,0.75,BSC,"bold,spice,hint of anise",3.75,3
+541,Brazil,0.7,BSC,"creamy,dried fruit,nut",4.0,3
+542,Dominican Republic,0.72,BSC,"smooth,spicy,cocoa",3.75,3
+543,Ecuador,0.73,BSC,"rich cocoa,floral,acidic",3.5,3
+544,Tanzania,0.72,BSC,"basic cocoa,mild fruit,sweet",3.5,3
+545,Costa Rica,0.7,BSC,"cocoa,wood,basic",3.25,3
+546,Vietnam,0.72,BSC,"roast,ham,nut",3.0,3
+548,Venezuela,0.61,BSCVL,"sweet,peanut butter",3.0,5
+549,Venezuela,0.77,BSC,"red berry,bitter,roast,sour",2.75,3
+550,Multiple Countries,0.75,BSC,"dry,sandy,cocoa,coffee",3.75,3
+551,Multiple Countries,0.8,BSC,"bitter,light lime,sour",3.0,3
+553,Multiple Countries,0.735,BS,"short,mild cocoa,mild fruit",3.75,2
+554,Ecuador,0.73,BS,"creamy,floral,bourbon",3.5,2
+555,Peru,0.7,BSC,"balanced,anise,creamy",3.5,3
+556,Saint Lucia,0.7,BSCV,"raw,dirt,metal,dry",2.25,4
+562,Ecuador,0.76,BS,"bold,roast,sticky,brownie",3.5,2
+563,Vietnam,0.78,BS,"wood,nut,off sour note",2.75,2
+564,Madagascar,0.72,BSC,"creamy,woodsy,cocoa",3.0,3
+565,Mexico,0.72,BSC,"intense,tang,berry,sour",3.0,3
+566,Venezuela,0.72,BSC,"lemon,sour,slight metal",3.0,3
+567,Venezuela,0.7,BSC,"dark berry,wine",3.75,3
+568,Venezuela,0.7,BSC,"slow,less intense berry,nut",3.5,3
+569,Peru,0.62,BSC,"woodsy,nut",3.25,3
+570,Peru,0.72,BSC,"creamy,butter,nondescript",3.0,3
+571,Grenada,0.72,BSC,"coffee,cocoa",3.25,3
+572,Jamaica,0.72,BSC,"oily,fatty,rum",3.25,3
+573,Venezuela,0.72,BSC,"oily,coffee",3.25,3
+574,Venezuela,0.7,BSC,"fruit,bland",3.0,3
+575,Trinidad and Tobago,0.72,BSC,"dry,spicy,wood",3.0,3
+576,Ecuador,0.72,BSC,"harsh aroma,melon floral,off",2.5,3
+577,Multiple Countries,0.72,BSC,"creamy,nut,cocoa",3.75,3
+578,Ghana,0.85,BSC,"silky,mint",3.5,3
+579,Madagascar,0.7,BSC,"sandy,sweet,tart red berry",3.5,3
+581,Ecuador,0.65,BSCL,"oily,fragrant,spicy",3.25,4
+582,Ghana,0.75,BSC,"oily,rich cocoa,nut",3.75,3
+584,Papua New Guinea,0.75,BSC,"sandy,sweet,nut",3.5,3
+585,Tanzania,0.75,BSC,"spice,roast,off fatty note",3.25,3
+586,Brazil,0.65,BSC,"sandy,sweet,smoke",3.25,3
+587,Fiji,0.67,BSC,"acidic,sweet,cucumber",3.25,3
+588,Vanuatu,0.64,BSC,"sandy,sweet,spicy,roast",3.25,3
+589,Vanuatu,0.83,BSC,banana nut,2.75,3
+590,Papua New Guinea,0.7,BSC,"true to sugar,molasses",2.5,3
+591,Ecuador,0.73,BSC,"creamy,complex,fruit",3.75,3
+592,Ecuador,0.85,BSC,"oily,mild bitter,nut,fruit",3.25,3
+593,Honduras,0.7,BS,"banana,spicy,grass",3.5,2
+594,Dominican Republic,0.7,BS,"deep cherry,earth,rubber",3.25,2
+595,Colombia,0.7,BS,"nut,citrus",3.25,2
+596,Ecuador,0.7,BS,"bold,black tea,floral,banana",3.25,2
+597,Haiti,0.7,BSC,rich malt,3.5,3
+598,Belize,0.75,BSC,"raspberry,cocoa",3.5,3
+599,Guatemala,0.7,BSC,"sandy,sweet,basic cocoa base",3.25,3
+600,Mexico,0.7,BSC,"raisin,honey,molasses",3.5,3
+601,Australia,0.7,BSCVL,"vanilla,banana,citrus",3.25,5
+602,Australia,0.7,BSC,"sandy,like candy vanilla,off",2.75,3
+603,Dominican Republic,0.72,BS,"ham,sour,astringent",2.75,2
+604,Ecuador,0.7,BSC,"floral,banana",3.5,3
+605,Trinidad and Tobago,0.7,BSC,"floral,sour,synthetic,off",3.0,3
+606,Nicaragua,0.7,BSC,"oily,grape,pungent",2.75,3
+607,Grenada,0.7,BSC,"off,pungent,intense",2.25,3
+608,Multiple Countries,0.65,BSCL,"sweet,vinegar",2.5,4
+609,Dominican Republic,0.7,BS,"spicy,fudge",3.75,2
+610,Colombia,0.7,BS,"grass,green,candy spice",3.25,2
+611,Costa Rica,0.7,BS,"dried fruit,tannic",3.0,2
+612,Venezuela,0.7,BS,"roast,oreo shell,coffee",3.5,2
+613,Papua New Guinea,0.7,BS,"mild smoke,raspberry,cocoa",3.5,2
+614,Venezuela,0.7,BS,"licorice,sour,rich cocoa",3.25,2
+615,Venezuela,0.7,BS,"acidic,sour,cocoa",2.75,2
+616,Dominican Republic,0.7,BS,"cherry,rich chocolate",3.75,2
+617,Belize,0.7,BS,"heavy roast,blackberry",3.5,2
+618,Ecuador,0.7,BS,"gummy,nut,bourbon",3.5,2
+619,Liberia,0.7,BS,"roast,spicy,nut",2.75,2
+620,Belize,0.7,BS,"intense,roast,coffee,raisin",3.0,2
+621,Dominican Republic,0.7,BS,"cherry,rich chocolate",3.75,2
+622,Costa Rica,0.7,BS,"cocoa,sour,toffee,earth",3.0,2
+623,India,0.7,BS,"ripe orange,citrus",3.5,2
+624,Honduras,0.7,BS,"nut,moderate acidity",3.25,2
+625,Sierra Leone,0.7,BS,"vegetal,high astringent",3.0,2
+626,Vietnam,0.7,BS,"green apple,sticky",3.5,2
+627,Dominican Republic,0.7,BS,"grass,fruit,brownie",3.25,2
+628,Madagascar,0.7,BS,"brownie,red berry",3.25,2
+629,Tanzania,0.7,BS,cocoa flavor dominant,3.25,2
+630,Guatemala,0.6,BSCV,"wood,holiday spice,soap",3.25,4
+631,Guatemala,0.75,BSCV,"dark wood,plum,astringent",3.0,4
+632,Guatemala,0.6,BSCV,"oily,dried fruit,vanilla",3.5,4
+633,Guatemala,0.7,BS,"sweet spice,floral",4.0,2
+634,Guatemala,0.7,BS,spicy,3.75,2
+635,Madagascar,0.7,BS,"oily,toffee,hint of fruit",3.75,2
+636,Guatemala,0.7,BS,"nut,ashy,spicy pepper",3.25,2
+637,Venezuela,0.75,BSCV,"gummy,fatty,caramel",3.0,4
+638,Guatemala,0.82,BSCV,"fatty,sunflower,peanut butter",3.25,4
+639,Multiple Countries,0.7,BS,"floral,licorice,roast",3.25,2
+640,Vietnam,0.72,BS,"raisin,astringent",3.0,2
+641,Venezuela,0.72,BS,"nut,tobacco,burnt,off note",2.75,2
+642,Vietnam,0.7,BSCL,"muted,creamy,basic cocoa",3.25,4
+643,Peru,0.72,BSCL,"muted,creamy,grape,fatty",3.0,4
+644,Venezuela,0.7,BSC,"roast,nut,sweet",3.25,3
+645,Ecuador,0.7,BSC,"bold,floral,rum",3.25,3
+646,Madagascar,0.7,BSC,"sweet,strong sour,acidic",3.0,3
+647,Tanzania,0.7,BSC,"intense,sweet,brownie",3.0,3
+648,Bolivia,0.75,BSC,"mild cherry,fatty",3.25,3
+649,Multiple Countries,0.58,BSCL,"nice melt,odd rubber note",3.25,4
+650,Dominican Republic,0.7,BSCL,"chalky,vanilla,caramel",2.75,4
+651,Venezuela,0.7,BSCL,"fatty,powdery,nut,slight burnt",2.75,4
+652,Ghana,0.7,BSCL,"vanilla,fatty,basic cocoa",2.5,4
+653,Brazil,0.72,BSC,"texture issues,brownie",3.5,3
+654,Brazil,0.65,BSC,"one dimensional,brownie",3.5,3
+655,Madagascar,0.7,BSC,"high roast,fruit",3.0,3
+656,Uganda,0.7,BSC,"high roast,intense,fatty",2.5,3
+657,Costa Rica,0.64,BSCV,"dark coffee,cocoa",3.0,4
+658,Ecuador,0.71,BSCV,"cinnamon,nutmeg,coffee",3.0,4
+659,Ghana,0.6,BSCV,"nut,simple,sweet",3.0,4
+660,Papua New Guinea,0.64,BSCV,"waxy,tobacco,smoke",3.0,4
+661,Peru,0.64,BSCV,"mild mint,basic cocoa",3.0,4
+662,Madagascar,0.66,BSCV,"sandy,cloying,rich cocoa",2.5,4
+663,Venezuela,0.66,BSCV,"fatty,rich cocoa,roast",3.75,4
+664,Papua New Guinea,0.64,BSCV,"smoke,chalky,berry,caramel",3.0,4
+665,Dominican Republic,0.8,BS,"mild bitter,fatty,grass",3.0,2
+666,Dominican Republic,0.7,BS,"dirt,floral,unrefined",2.6,2
+667,Dominican Republic,0.7,BS,"metal,dirt, earth",2.5,2
+668,Tanzania,0.72,BS,"vanilla,chemical,rubber",2.5,2
+669,Guatemala,0.72,BS,"smoke,roast,acidic,rich",3.0,2
+670,Costa Rica,0.77,BS,"red berry,lingering coffee",3.5,2
+671,Dominican Republic,0.77,BS,"sticky,woodsy,rum",3.5,2
+672,Bolivia,0.8,BS,"intense fruit,bitter end",2.75,2
+673,Ecuador,0.7,BS,"grass,tea,late sour",3.25,2
+674,Dominican Republic,0.74,BS,"earth,tart,sour",3.0,2
+675,Madagascar,0.8,BS,"sandy,flat,hint of berry",2.75,2
+676,Venezuela,0.75,BS,"sticky,very roast,nut",2.75,2
+677,Bolivia,0.75,BS,"dry,mint,medicinal",2.75,2
+678,Ecuador,0.76,BS,"butter,floral,rum",3.5,2
+679,Ecuador,0.7,BS,"oily,black pepper,roast",3.25,2
+680,Dominican Republic,0.74,BS,"mild fruit,spice,roast",3.5,2
+681,Bolivia,0.7,BS,"sticky,rich,cherry",3.75,2
+682,Vietnam,0.78,BS,"tropical berry,intense",3.5,2
+683,Solomon Islands,0.72,BS,"well defined,creamy,cherry",4.0,2
+684,Guatemala,0.7,BS,"blackberry,raisin",3.75,2
+685,Brazil,0.75,BS,"sticky,roasted nibs,grape",3.75,2
+686,Fiji,0.8,BS,"cocoa,tea,malt",3.75,2
+687,Belize,0.72,BS,"creamy,sticky,dried fruit",4.0,2
+688,Madagascar,0.72,BS,"sticky,dried fruit,toast,cocoa",3.75,2
+689,Multiple Countries,0.73,BS,"burnt honey,earth",3.5,2
+690,Sao Tome and Principe,0.65,BSCL,"complex,sweet,sour,grass",3.0,4
+691,Sao Tome and Principe,0.75,BSCL,"bland,fatty,fruit",3.0,4
+692,Sao Tome and Principe,0.7,BSCL,"cocoa,raw,dirt,chemical",2.75,4
+693,Sao Tome and Principe,0.75,BSCL,"late cocoa,harsh,off note",2.5,4
+694,Nicaragua,0.72,BSC,"nut,caramel,toffee",3.5,3
+695,Panama,0.72,BSC,"mild cherry,earth",3.25,3
+696,Venezuela,0.72,BSC,"fatty,raisin,nut",3.25,3
+697,Venezuela,0.85,BSC,"intense,spicy,floral",3.0,3
+699,Multiple Countries,0.7,BSL,"acidic,astringent,unpleasant",1.5,3
+700,Multiple Countries,0.88,BSL,"sticky,floral",3.0,3
+701,Venezuela,0.7,BS,"creamy,basic cocoa",3.5,2
+702,Peru,0.7,BS,"floral,olive",3.25,2
+703,Venezuela,0.7,BS,"long lasting,fruit",3.0,2
+704,Venezuela,0.7,BS,"creamy,complex,coffee",4.0,2
+705,Ecuador,0.7,BS,"creamy,nut,wood,cocoa",4.0,2
+706,Venezuela,0.7,BS,"creamy,mint,tobacco,olive",4.0,2
+707,Indonesia,0.7,BS,"creamy,smoke,tobacco",3.75,2
+708,Madagascar,0.7,BS,"fruit,basic cocoa",3.5,2
+709,Madagascar,0.7,BS,"smooth,banana,cocoa",3.5,2
+710,Venezuela,0.75,BS,"sticky,smoke,ham,earth",3.25,2
+711,Venezuela,0.6,BS,"mild spice,licorice",3.25,2
+712,Multiple Countries,0.7,BS,"sticky,olive",3.75,2
+713,Multiple Countries,0.78,BS,"sticky,grass,coffee",3.5,2
+714,Venezuela,0.7,BS,"cucumber,hot spice",3.0,2
+715,Colombia,0.7,BS,"creamy,wood,earth",3.0,2
+716,Venezuela,0.7,BS,"subtle,caramel,sour milk",3.0,2
+717,Venezuela,0.7,BS,"smooth,intense,smoke,nut",3.5,2
+718,Venezuela,0.7,BS,"creamy,coffee,caramel",3.75,2
+719,Tanzania,0.7,BS,"sticky,nut",3.5,2
+721,Ecuador,0.7,BS,"floral,well developed,creamy",3.75,2
+722,Venezuela,0.7,BS,"nut,strawberry,creamy",3.75,2
+723,Tanzania,0.7,BS,"creamy,sticky,fruit",4.0,2
+724,Colombia,0.8,BSC,"bitter,molasses,marshmallow",2.75,3
+725,Madagascar,0.77,BSC,"fruit,molasses",2.75,3
+726,Venezuela,0.7,BSC,"burnt rubber,molasses",2.5,3
+727,Grenada,0.75,BS*C,"licorice,molasses,rubber",2.75,3
+728,Guatemala,0.72,BS*C,"near perfect shine,cocoa",3.5,3
+729,Peru,0.8,BS*,"molasses,fruit",3.5,2
+730,Philippines,0.715,BS*C,molasses note from sugar,2.75,3
+731,Dominican Republic,0.75,BS,"dry,cocoa,grass,spicy",3.0,2
+732,Tanzania,0.7,BS,"dry,sour,sweet,mild fruit",2.75,2
+733,Dominican Republic,0.75,BS,"dry,earth,walnut",2.5,2
+734,Ecuador,0.72,BSC,"rich cocoa,fruit,strong floral",3.75,3
+735,Peru,0.7,BSC,"dark forest berry,spice",3.75,3
+736,Panama,0.7,BSC,"caramel,cocoa",3.5,3
+737,Ecuador,0.7,BSC,"chalky,bread,dirt",2.5,3
+738,Honduras,0.72,BSC,"dried fruit,grape,sour",3.75,3
+739,Dominican Republic,0.65,BSC,"heavy roast,wood,berry",3.5,3
+740,Venezuela,0.71,BSC,intense cocoa,3.5,3
+741,Nicaragua,0.71,BSC,"intense,almond,coffee",3.25,3
+742,Panama,0.72,BSC,"licorice,leather",3.0,3
+743,Venezuela,0.72,BSC,"creamy,nut",3.75,3
+744,Nicaragua,0.76,BSCL,"black pepper,rich,intense",3.75,4
+745,Nicaragua,0.7,BSCL,"sandy,full bodied,spicy",3.5,4
+746,Guatemala,0.7,BSCL,"intense,spicy,butterscotch",4.0,4
+747,Nigeria,0.7,BSCL,like candy off flavor,2.75,4
+748,Guatemala,0.8,BSCL,"intense earth,cocoa,roast",3.25,4
+749,Philippines,0.7,BSCL,"cocoa,honey,watery,sweet",3.5,4
+750,Dominican Republic,0.7,BS,"coarse,earth,mild banana",3.25,2
+752,Ecuador,0.7,BSC,"blackberry,cinnamon",4.0,3
+753,Peru,0.7,BSC,"sandy,orange,butterscotch",3.5,3
+754,Venezuela,0.7,BSC,"fatty,roast,intense brownie",3.5,3
+755,Dominican Republic,0.7,BSC,"dates,acidic,rich cocoa",3.25,3
+756,Venezuela,0.7,BSC,"cherry,earth,tobacco",3.25,3
+757,Peru,0.7,BSC,"smooth,dense,grape",4.0,3
+758,Dominican Republic,0.7,BSC,"spicy,cocoa",3.75,3
+759,Madagascar,0.7,BSC,ultra fruit,3.5,3
+760,Peru,0.7,BSC,"waxy,spicy,tobacco",3.25,3
+761,Colombia,0.7,BSC,"dried fruit,strong floral",3.25,3
+762,Colombia,0.7,BSC,"mild,dried fruit,chocolate",3.25,3
+763,Peru,0.72,BSC,"butter,burlap",2.75,3
+764,Peru,0.8,BS,"nut,almond butter",3.5,2
+765,Venezuela,0.68,BS,"dry,gritty,cardboard,nut",3.0,2
+766,Madagascar,0.7,BS,"molasses,red fruit,astringent",3.0,2
+767,Colombia,0.7,BS,"cocoa,spice,alcohol,dirt",3.0,2
+768,Bolivia,0.71,BSCL,"lemon,tart,burnt,chemical",2.75,4
+769,Bolivia,0.75,BSCL,"nut,rich,red berry",3.75,4
+770,Venezuela,0.7,BSCVL,"gritty,chalky,earth,sour",2.75,5
+771,Venezuela,0.61,BSCVL,"muted,cherry,banana",3.0,5
+772,Venezuela,0.74,BSCVL,"sandy,banana,sour",2.5,5
+773,Venezuela,0.58,BSCVL,"gritty,sweet,banana,smoke",2.5,5
+774,Venezuela,0.7,BSCVL,"sandy,bold,cherry,peanut butter",3.0,5
+775,Venezuela,0.605,BSCVL,"very sweet,marshmallow",2.75,5
+776,Venezuela,0.7,BSCVL,"spicy,caramel,vanilla",3.75,5
+777,Guatemala,0.7,BSC,"cocoa,fig note",3.5,3
+778,Saint Lucia,0.7,BS,"sandy,tannic,earth",3.25,2
+779,Saint Lucia,0.6,BS,"low refinement,too sweet",2.75,2
+780,Peru,0.78,BSC,"brownie,nut",3.5,3
+781,Venezuela,0.79,BSC,"coarse,wood,roast",3.0,3
+782,Haiti,0.7,BS,"simple,mild cocoa,fruit",3.5,2
+783,Guatemala,0.7,BS,"spicy,sweet,",3.5,2
+784,Madagascar,0.7,BS,"fruit,roast",3.5,2
+785,Dominican Republic,0.7,BS,"earth,floral,cocoa",3.25,2
+786,Honduras,0.75,BS,"carrots,heavy roast",3.25,2
+787,Vietnam,0.72,BS,"intense,brownie,spicy,metal",3.0,2
+788,Trinidad and Tobago,0.72,BSC,"muddy,raisin,nut,rubber",3.5,3
+789,Tanzania,0.8,BSC,"fruit,dirt",3.0,3
+790,Sierra Leone,0.7,BSC,"dirt,earth,burnt,honey",2.5,3
+792,Vietnam,0.7,BSC,"spicy,green,long,intense",3.25,3
+793,Vietnam,0.74,BSC,"gritty,smoke,wood,blackberry",3.25,3
+794,Vietnam,0.8,BSC,"mild bitter,smoke,ham",3.0,3
+795,Venezuela,0.72,BSCV,"wood,cocoa",3.0,4
+796,Venezuela,0.81,BSCV,"hazelnut,fruit,slight bitter",3.5,4
+797,Multiple Countries,0.74,BSCV,"sweet,vanilla,sticky",2.75,4
+798,Costa Rica,0.65,BSCV,"sticky,slight plum,medicinal",2.0,4
+799,Venezuela,0.7,BSCV,"nut,ginger,off note",2.75,4
+800,Multiple Countries,0.62,BSCV,"sweet,vanilla,mild banana",2.75,4
+801,Multiple Countries,0.55,BSCV,"gritty,overly sweet,fruit punch",2.5,4
+802,Trinidad and Tobago,0.55,BSCV,"grits,very sweet,banana",2.5,4
+803,Venezuela,0.7,BSCV,"strong vanilla,strawberry,nut",2.5,4
+804,Multiple Countries,0.62,BSCV,"gritty,sweet,vanilla,wood",2.5,4
+805,Dominican Republic,0.8,BSC,"coarse,mild bitter,raisin",3.75,3
+806,Ecuador,0.8,BSC,"spicy,roast,mild bitter",3.5,3
+807,Belize,0.8,BSC,"mild fruit,earth",3.0,3
+808,Guatemala,0.8,BSC,prominent plum note,3.5,3
+809,Peru,0.73,BSC,dominant by heavy roast,3.0,3
+810,Brazil,0.75,BS,"perfume,floral,vanilla",2.75,2
+811,Jamaica,0.76,BS,"roast,spicy,nut",3.0,2
+812,Belize,0.76,BS,"metal,off note,powdery",2.75,2
+813,Venezuela,0.76,BS,"fatty,sandy,nut,off note",2.5,2
+814,Bolivia,0.68,BSCVL,"complex,raspberry,cocoa",4.0,5
+815,Ecuador,0.72,BSCVL,"fatty,rich,spice,nut",3.5,5
+816,Dominican Republic,0.74,BSCVL,"creamy,roast,cocoa",3.0,5
+817,Madagascar,0.64,BSCVL,"basic cocoa,short length",3.0,5
+818,Venezuela,0.65,BSCVL,"creamy,floral,complex",3.0,5
+819,Multiple Countries,0.62,BSCVL,"maltitol,cocoa",2.0,5
+820,Grenada,0.58,BSCVL,"spice,marshmallow",3.5,5
+821,Dominican Republic,0.7,BSC,"sandy,sweet,mild fruit",3.25,3
+822,Dominican Republic,0.8,BSC,"molasses,licorice,bitter",3.0,3
+823,Dominican Republic,0.85,BSC,"intense,molasses,bitter",2.5,3
+824,Puerto Rico (United States Territory),0.65,BSC,"intense,molasses,sweet",2.25,3
+825,Multiple Countries,0.7,BSC,"fruit,cocoa,fatty",3.25,3
+826,Mexico,0.7,BSC,"banana,bland,sour,off",3.0,3
+827,Honduras,0.7,BSC,"off,ham,roast",2.75,3
+828,Colombia,0.7,BSC,"nut,melon,vinegar",2.75,3
+829,Vanuatu,0.72,BSCL,"cherry,cocoa,creamy",3.75,4
+830,Papua New Guinea,0.72,BSCL,"caramel,acidic,creamy",3.5,4
+831,Solomon Islands,0.69,BSCL,"plum,cocoa",3.5,4
+832,Philippines,0.73,BSCL,"creamy,honey,mild ham",3.25,4
+833,Dominican Republic,0.75,BS,"roast,simple",3.5,2
+834,Colombia,0.75,BS,"high acidity,bitter,nut",3.0,2
+835,Belize,0.75,BS,"ham,dried fruit",2.75,2
+836,Guatemala,0.75,BS,"ham,large grits",2.75,2
+837,India,0.68,BSC,"muted,mild sweet cocoa",3.5,3
+838,Tanzania,0.7,BSC,"fruit,spicy mild molasses",3.5,3
+839,Madagascar,0.7,BSC,"molasses,sour note",3.0,3
+840,Peru,0.72,BS*C,"coconut,true to sugar bar",2.75,3
+841,Dominican Republic,0.7,BSCVLSa,"strong vanilla,earth,nut",2.75,6
+842,Dominican Republic,0.8,BSCVLSa,"vanilla,dried fruit,nut",2.75,6
+843,Tanzania,0.67,BS,"gummy,sandy,complex",3.75,2
+844,Ecuador,0.75,BS,"sticky,floral",3.5,2
+845,Madagascar,0.7,BS,"gummy,bland,sour",2.75,2
+846,Haiti,0.68,BS,"roast,hazelnut,cocoa",3.5,2
+847,Philippines,0.7,BS,"sandy,dried fruit,roast",3.25,2
+848,Bolivia,0.7,BS,"nut,sour milk",3.0,2
+849,Indonesia,0.7,BS,"sandy,powdery,late sour",3.0,2
+850,Dominican Republic,0.72,BS,"coffee,acidic,astringent",2.75,2
+851,Madagascar,0.7,BS,"roasted nut,citrus,creamy",3.5,2
+852,Mexico,0.7,BS,"sticky,dried sour fruit,roast",3.0,2
+853,Ecuador,0.7,BS,"floral,orange,cocoa",3.75,2
+854,Peru,0.7,BS,"fig,mild anise",3.75,2
+855,Tanzania,0.7,BS,"nut,bland,late sour",3.25,2
+856,Papua New Guinea,0.7,BS,"off,tropical,vegetal,rubber",3.0,2
+857,Bolivia,0.7,BS,"honey,mild floral,mild off",3.0,2
+858,Vanuatu,0.7,BS,"fruit,smoke,mocha",3.0,2
+859,Colombia,0.7,BS,"dirt,roast,acidic",3.0,2
+860,Venezuela,0.7,BSC,"nut,dried fruit",3.75,3
+861,Venezuela,0.6,BSC,"grits,hazelnut,rum",3.5,3
+862,Venezuela,0.7,BSC,"caramel,dairy",3.75,3
+863,Venezuela,0.7,BSC,"intense,tobacco,nut",3.5,3
+864,Venezuela,0.72,BS,nut,3.5,2
+865,Venezuela,0.7,BSC,"dried fruit,large grits",3.25,3
+866,Venezuela,0.7,BSC,large grits,3.0,3
+867,Venezuela,0.85,BS,"slight dry,gritty,fruit,nut",3.0,2
+868,Venezuela,0.6,BSCL,"large grits,sweet",2.5,4
+869,Ghana,0.6,BSCL,"coarse,hazelnut,peanut",3.5,4
+870,Madagascar,0.65,BSCL,banana,3.5,4
+871,Costa Rica,0.7,BSCL,"few grits,spicy,cocoa",3.5,4
+872,Peru,0.75,BSCL,"very coarse,intense,spice",3.5,4
+873,Vietnam,0.8,BSCL,"intense,bitter,off note",3.0,4
+874,Peru,0.7,BS,"coarse,perfume,heavy roast",3.5,2
+875,Dominican Republic,0.65,BS,chocolate covered strawberry,3.5,2
+876,Peru,0.66,BS*,"olive,rum",3.5,2
+877,Peru,0.7,BS,"fruit,cough medicine",2.5,2
+878,Peru,0.81,BS*,"sandpaper,some fruit,bitter",2.0,2
+879,Peru,0.66,BS,"spice,citrus,sweet",3.5,2
+880,Nicaragua,0.68,BS,"sweet,tobacco",3.25,2
+881,Costa Rica,0.8,BS,"mild bitter,roast,red berry",3.0,2
+882,Guatemala,0.73,BS,"roast,grape,rich brownie",3.5,2
+883,Peru,0.7,BS,"slight dry,citrus,grapefruit",3.5,2
+884,India,0.71,BSC,"tea,spicy,sweet",3.25,3
+885,Venezuela,0.65,BSC,"complex,mild licorice,spice",3.5,3
+886,Jamaica,0.7,BSC,"creamy,roast,tobacco",3.25,3
+887,Jamaica,0.7,BSC,"creamy,simple,nut",3.0,3
+888,Jamaica,0.8,BSC,"slight burnt,earth",2.75,3
+889,Venezuela,0.7,BSC,"tart,roasted cocoa",4.0,3
+890,Dominican Republic,0.72,BSC,"red berry,some roasted note",3.5,3
+891,Jamaica,0.7,BSC,"wood,grass,long",3.5,3
+892,Jamaica,0.7,BSC,"grass,brownie,astringent",3.25,3
+893,Dominican Republic,0.72,BSC,"spicy,cocoa",3.25,3
+894,Venezuela,0.76,BSC,"bread,nut,earth,intense",3.25,3
+895,Madagascar,0.74,BSC,"sandy,cocoa,red fruit",3.0,3
+896,Ghana,0.74,BSC,"mild bitter,mild cocoa,roast",2.75,3
+897,Madagascar,0.74,BSC,"wood,red fruit,sour",2.75,3
+898,Madagascar,0.74,BSC,"caramel,nut,dried fruit",4.0,3
+899,Papua New Guinea,0.69,BS,"tart,red berry,smoke",4.0,2
+900,Papua New Guinea,0.69,BS,"mild smoke,fruit",3.5,2
+901,Papua New Guinea,0.69,BS,"smoke,fruit,sour,ham",3.5,2
+902,Papua New Guinea,0.69,BS,"sandy,smoke,red berry",3.0,2
+903,Peru,0.7,BSC,chocolate covered banana,4.0,3
+904,Dominican Republic,0.72,BSC,"blackberry,caramel,roast",3.75,3
+905,Peru,0.7,BSC,"cocoa,fresh grape",3.75,3
+906,Dominican Republic,0.72,BSC,mild burnt caramel,3.25,3
+907,Peru,0.7,BSC,"orange,mellow but flavorful",3.5,3
+908,Peru,0.7,BSC,"fruit,floral,caramel",3.5,3
+909,Peru,0.7,BSC,"slow to develop,caramel,roast",3.5,3
+910,Peru,0.7,BSC,"light color,leather flavor",3.0,3
+911,Guatemala,0.7,BSC,"long lasting,fruit,spicy",3.75,3
+912,Guatemala,0.7,BSC,"rich cocoa,mild,fatty",3.5,3
+913,Guatemala,0.7,BSC,"rich cocoa,nut",3.5,3
+914,Venezuela,0.72,BSC,"complex,nut,spice,floral",3.5,3
+915,Venezuela,0.72,BSC,"roast,mild fatty",3.25,3
+916,Tanzania,0.7,BS,"creamy,simple,strong chocolate",3.75,2
+917,Brazil,0.7,BS,"creamy,fragrant",3.5,2
+918,Peru,0.7,BS,"banana,yogurt,cocoa",4.0,2
+919,Belize,0.7,BS,"spice,fatty,mild cocoa",3.5,2
+920,Madagascar,0.7,BS,"strong fruit,ham,deep cocoa",3.5,2
+921,Nicaragua,0.7,BS,"vegetal,herb,raw",3.5,2
+922,Nicaragua,0.7,BSC,"creamy,black pepper,nut",3.75,3
+923,Guatemala,0.7,BSC,"honey,deep cocoa",4.0,3
+924,Nicaragua,0.7,BSC,"banana,dairy,cocoa",4.0,3
+925,Nicaragua,0.7,BSC,"strong cocoa,orange citrus",3.75,3
+926,Nicaragua,0.7,BSC,"cocoa,savory",3.75,3
+927,Nicaragua,0.7,BSC,"black pepper,high astringent",3.75,3
+928,Nicaragua,0.68,BSC,"unique flavor,floral-spice mix",3.5,3
+929,Nicaragua,0.7,BSC,"delicate,balanced",3.5,3
+930,Nicaragua,0.7,BSC,"wood,grass,spicy",3.25,3
+931,Nicaragua,0.7,BSC,"high acidity,grass",3.25,3
+932,Nicaragua,0.6,BSC,"sweet,metal",3.0,3
+933,Nicaragua,0.7,BSC,"floral,sticky",3.0,3
+934,Nicaragua,0.7,BSC,"tobacco,wood,wild berry",3.5,3
+935,Nicaragua,0.7,BSC,"roast,fatty,wood",3.5,3
+936,Nicaragua,0.7,BSC,"fatty,leather,earth",3.25,3
+937,Nicaragua,0.7,BSC,"oily,gritty,savory",3.75,3
+938,Nicaragua,0.7,BSC,"intense olive,citrus,vegetal",3.25,3
+939,Honduras,0.7,BSC,"spicy,earth",3.25,3
+940,Nicaragua,0.7,BSC,"oily,fatty,bold olive",3.25,3
+941,Nicaragua,0.7,BSC,baked bread,3.5,3
+942,Nicaragua,0.7,BSC,"oily,burnt black pepper",3.25,3
+943,Nicaragua,0.7,BSC,"mild fatty,nut,roast",3.5,3
+944,Nicaragua,0.85,BSC,"oily,spicy,sour",3.25,3
+945,Nicaragua,0.6,BSC,"oily,sweet,dairy,bland",3.0,3
+946,Costa Rica,0.66,BSC,"cocoa,spicy,sweet",3.25,3
+947,Costa Rica,0.7,BSC,"fatty,sweet,vanilla",3.0,3
+948,Peru,0.7,BSC,"oily,tart,chlorine",2.5,3
+949,Dominican Republic,0.7,BSC,"dried fruit,intense",3.75,3
+950,Ecuador,0.75,BSC,"sandy,sweet,molasses,floral",3.0,3
+951,Trinidad and Tobago,0.7,BSC,"delicate,herb,chocolate",3.75,3
+952,Peru,0.76,BSC,"acidic,undefined,brownie,off",3.0,3
+953,Costa Rica,0.74,BS,"oily,dried fruit,leather",4.0,2
+954,Bolivia,0.74,BS,"oily,tropical",3.75,2
+955,Madagascar,0.74,BS,"balanced,fruit,nut,roast",3.75,2
+956,Colombia,0.85,BS,"black current,bitter,astringent",3.5,2
+957,Venezuela,0.7,BSC,"dried fruit,cocoa",3.5,3
+958,Madagascar,0.7,BS,"grainy texture,sour,ham",3.0,2
+959,Tanzania,0.7,BS,"accessible,sweet,sandy",3.0,2
+960,Taiwan,0.7,BSC,cheesy off flavor,2.5,3
+961,United States,0.85,BSV,"gritty,ambiguous",2.5,3
+962,Ghana,0.7,BSCL,"cocoa,coconut",4.0,4
+963,Dominican Republic,0.7,BSCL,"sticky,spice,roast,earth",3.5,4
+964,Dominican Republic,0.8,BSCL,"deep cocoa,fruit,spice",3.5,4
+965,Madagascar,0.75,BSCL,"red fruit,tart,fatty,leather",3.5,4
+966,Madagascar,0.65,BSCL,"sandy,sweet,candy tart",3.25,4
+967,Saint Lucia,0.77,BSC,"chewy,wood,rustic",3.5,3
+968,Venezuela,0.75,BSC,"fatty,creamy,roast",3.5,3
+969,Guatemala,0.72,BSC,"dry,grainy,spicy,roast",2.75,3
+970,Venezuela,0.75,BSC,"earth,roast,strong vanilla",2.75,3
+971,Brazil,0.66,BS,"mild wood,black licorice",3.0,2
+972,Belize,0.7,BS,"mild strawberry,cocoa",3.5,2
+973,Guatemala,0.77,BSC,"sweet edge,bright fruit,sour",3.25,3
+974,Nicaragua,0.77,BSC,"mild molasses,rich,gateway",3.25,3
+975,Mexico,0.77,BSC,"sour off flavor,nut,earth",2.75,3
+976,Peru,0.7,BSC,"creamy,fig",3.25,3
+977,Costa Rica,0.73,BSC,"floral,rubber,wood",3.0,3
+978,Colombia,0.73,BSC,"acidic,mild burnt,metal",2.5,3
+979,Belize,0.7,BS,"fruit,tart,rubber",2.75,2
+980,Vietnam,0.72,BSCVL,"fatty,vanilla,dairy",3.0,5
+981,Multiple Countries,0.7,BSCVL,"mild rich,basic,roast",2.5,5
+982,Madagascar,0.7,BS,"rich,coffee,cherry",3.5,2
+983,Peru,0.73,BS,"sour grape,pungent,ashy",2.5,2
+984,Grenada,0.71,BSCVL,"very sour,grass,fatty",2.5,5
+985,Grenada,0.6,BSCVL,"very sweet,coffee,mild sour",2.75,5
+986,Grenada,0.82,BSCVL,"chunky,muted,mild bitter",3.25,5
+987,Multiple Countries,0.64,BSCL,"mild nut,spicy,brownie",3.25,4
+988,Ecuador,0.64,BSCL,"slight sweet,nut,off note",3.0,4
+989,Ghana,0.64,BSCL,"hot cocoa,very nut",3.0,4
+990,Multiple Countries,0.64,BSCL,"light perfume,mild,sweet",3.0,4
+991,Venezuela,0.76,BSCL,"gritty,roast,strong coffee",3.0,4
+992,Madagascar,0.7,BSCL,"earth,chemical or burnt note",2.75,4
+993,Madagascar,0.65,BSCVL,"creamy,sweet,blueberry",3.5,5
+994,Ecuador,0.65,BSCVL,"creamy,blackberry",3.5,5
+995,Multiple Countries,0.61,BSCVL,"sweet,rich cocoa,mild citrus",3.5,5
+996,Colombia,0.65,BSCVL,"creamy,sweet,floral,vanilla",3.0,5
+997,Multiple Countries,0.61,BSCVL,"fatty,cocoa,fruit",3.0,5
+998,Venezuela,0.65,BSCVL,"sweet,creamy,vanilla",2.5,5
+999,Multiple Countries,0.72,BSCVL,"creamy,sandy,nutmeg,moss",3.5,5
+1000,Venezuela,0.65,BSCVL,"creamy,nut",3.5,5
+1001,Peru,0.65,BSCVL,"sweet,vanilla,rich",3.0,5
+1002,Multiple Countries,0.64,BSCVL,"perfume,vanilla",3.0,5
+1003,Multiple Countries,0.7,BSCVL,"complex,fruit,nut,raisin",3.5,5
+1004,United States,0.55,BSCVL,"sweet,mild lemon",3.0,5
+1005,Multiple Countries,0.91,BSCVL,"bitter,fatty,fruit",3.0,5
+1006,Trinidad and Tobago,0.65,BSCVL,"creamy,mild tobacco,ham",3.0,5
+1007,Multiple Countries,0.61,BSCVL,"sweet,creamy,floral,orange",3.25,5
+1008,Multiple Countries,0.72,BSCVL,"dry,sticky,brownie",3.25,5
+1009,Multiple Countries,0.72,BSCVL,"dutched?,intense,rich cocoa",2.75,5
+1010,Ecuador,0.65,BSCVL,"very spicy,roast",3.5,5
+1011,Jamaica,0.65,BSCVL,"sweet,vanilla,cocoa",3.25,5
+1012,Haiti,0.65,BSCVL,"creamy,slight burnt,roast",2.75,5
+1013,Nicaragua,0.65,BSCVL,"floral,overly roasted,harsh",2.75,5
+1014,Multiple Countries,0.7,BSCVL,"nut,black licorice",3.75,5
+1015,Multiple Countries,0.7,BSC,"sandy,intense,cherry",3.5,3
+1016,Dominican Republic,0.75,BSC,"chalky,berry,cocoa",3.25,3
+1017,United States,0.66,BSC,"muted,mild fruit,sweet",3.25,3
+1018,Multiple Countries,0.7,BSC,"fatty,nut,earth",3.0,3
+1019,Multiple Countries,0.8,BSC,"sandy,roasted vegetal",3.0,3
+1020,Papua New Guinea,0.8,BSC,"smoke,cherry,sour",2.75,3
+1021,Multiple Countries,0.74,BSC,"xl nibs,sour,cardboard",2.75,3
+1022,Multiple Countries,0.65,BSC,"molasses,sweet,long,cocoa",2.75,3
+1024,Ecuador,0.77,BSCV,"butter,floral,burnt",2.5,4
+1025,Ecuador,0.7,BSCL,"chewy,fatty,sweet,nut",3.0,4
+1026,Ecuador,0.55,BSCL,"overly sweet,banana,yogurt",2.75,4
+1028,Brazil,0.77,BSC,"rich chocolate,sweet edge",3.5,3
+1029,Brazil,0.74,BSC,"rich chocolate,sandy texture",3.5,3
+1030,Brazil,0.67,BSC,"sandy,sweet,dried fruit",3.0,3
+1031,Brazil,0.85,BSC,"powdery,rich,coffee,roast",3.25,3
+1032,Brazil,0.75,BSC,"flat,late tart note",3.0,3
+1033,Vietnam,0.7,BSC,"sandy,brownie,coconut",3.25,3
+1034,India,0.7,BSC,"sandy,sweet,cocoa",3.0,3
+1035,Dominican Republic,0.7,BSC,"earth,dirt,dried fruit",3.5,3
+1036,Tanzania,0.72,BSC,"cocoa,fatty,fruit",3.25,3
+1037,Peru,0.65,BSC,"pungent,chemical",2.75,3
+1038,Peru,0.64,BSL,"powdery,vanilla,artificial",2.75,3
+1039,Venezuela,0.71,BSCL,"nut,sweet,fatty,sandy",3.0,4
+1040,Indonesia,0.71,BSCL,"rubber,fatty,sandy,grape",2.5,4
+1041,Multiple Countries,0.71,BSCL,"sandy,fatty,chemical",2.5,4
+1042,Belize,0.7,BSC,"pungent raisin,metal",3.25,3
+1043,Costa Rica,0.74,BSC,"mostly earth,mild dried fruit",3.5,3
+1044,Ecuador,0.67,BSC,"nut,butterscotch",3.75,3
+1045,United States,0.67,BSC,"spicy,intense,fades fast",3.75,3
+1046,Bolivia,0.67,BSC,full flavor spectrum,3.5,3
+1047,Bolivia,0.67,BSC,"wood,earth,medicinal",3.0,3
+1048,United States,0.72,BSC,"astringent,smoke,cream",3.5,3
+1049,Ecuador,0.7,BSC,floral,3.5,3
+1050,Ecuador,0.77,BSC,"strong floral,black licorice",3.5,3
+1051,Bolivia,0.72,BSC,"dark berry,honey,cream",4.0,3
+1052,Bolivia,0.68,BSC,"creamy,mild nut , wood",3.75,3
+1053,Venezuela,0.74,BSC,"sandy,sweet,mild fruit",3.5,3
+1054,Uganda,0.57,BSC,"too sweet,spicy,candied",2.75,3
+1055,Ecuador,0.73,BS*,"floral,palm,sour",3.25,2
+1056,Peru,0.7,BS*,"palm,spicy,flour",3.25,2
+1057,Madagascar,0.74,BS*,"sandy,tart,tang,palm",3.0,2
+1058,Venezuela,0.7,BS*,"intense,palm,nut",3.0,2
+1059,Tanzania,0.7,BS*,"intense,palm,earth",2.75,2
+1060,Dominican Republic,0.71,BS*,"fruit,tannic,coconut",3.5,2
+1061,Tanzania,0.7,BS*,"lemon,late sour , molasses",3.0,2
+1062,Madagascar,0.74,BS*,"sour,citrus,molasses",2.75,2
+1063,Ecuador,0.73,BS*,"harsh flavor,hay",2.5,2
+1064,Peru,0.7,BS*,"light color,sour,pungent",2.25,2
+1065,Peru,0.66,BSC,"mild caramel,honey",3.5,3
+1066,Dominican Republic,0.75,BSC,"intense,bitter,coffee",3.25,3
+1067,Madagascar,0.7,BSC,"sour,earth",2.75,3
+1068,Venezuela,0.72,BSC,"nut,off note",2.75,3
+1069,Ecuador,0.85,BSC,"butterscotch,burnt cinnamon",3.5,3
+1070,Venezuela,0.68,BSC,"high acid,sweet,nut,strawberry",3.25,3
+1071,Ecuador,0.58,BSCL,"dry,nut,sweet",3.5,4
+1072,Ecuador,0.58,BSCL,"dry,intense floral,spicy",3.25,4
+1073,Ecuador,0.72,BS,"dry,floral,slight musty",3.0,2
+1074,Ecuador,0.8,BS,"sandy,perfume,nut",2.5,2
+1075,Ecuador,0.8,BSCL,"perfume,burn",2.0,4
+1076,Dominican Republic,0.75,BS,"red berry,cocoa,mild coffee",3.75,2
+1077,Peru,0.7,BS,"coffee,red berry,tart",3.5,2
+1078,Dominican Republic,0.7,BS,"sandy,red berry,sour",2.75,2
+1079,Côte d’Ivoire (aka Ivory Coast),0.7,BS,"dry,sour,cheesy,off",2.5,2
+1080,Ecuador,0.7,BSCL,"floral,roast,coffee",3.5,4
+1081,Madagascar,0.7,BSCL,"rich cocoa,fatty",3.5,4
+1082,Trinidad and Tobago,0.7,BSCL,"creamy,nut,tea,fatty",3.5,4
+1083,Venezuela,0.7,BSCL,"muted,fatty,nut",3.5,4
+1084,Peru,0.7,BSCL,"sour,raw,green",2.75,4
+1085,Ecuador,0.72,BS*,"true to sugar,green,fatty",2.5,2
+1086,Saint Lucia,0.7,BS,cardamom,4.0,2
+1088,Saint Lucia,0.7,BS,"smoke,cocoa,fruit,fuel",2.75,2
+1089,Colombia,0.75,BSCL,"dry,wood,dried fruit",2.75,4
+1090,Honduras,0.72,BSCL,"sour raisin,wood,fatty",3.0,4
+1091,Tanzania,0.8,BSCL,"fatty,mild bitter,banana",3.0,4
+1092,Saint Lucia,0.72,BSC,"grass,tobacco,intense",3.0,3
+1093,Sao Tome and Principe,0.72,BSCL,"fungal,mushroom,mild burn",3.0,4
+1094,Tanzania,0.75,BSCL,"sandy,sweet,mild cocoa",2.75,4
+1098,Venezuela,0.7,BSCL,"ashy,wood,bright red",2.75,4
+1099,Saint Lucia,0.65,BSCL,"sweet,cocoa,grass",3.25,4
+1100,Ecuador,0.8,BSCL,"mild bitter,floral",3.0,4
+1101,Saint Lucia,0.65,BSCL,"wood,nut,short",3.0,4
+1102,Madagascar,0.66,BSVL,"sweet,red berry,sour",3.5,4
+1103,Vietnam,0.8,BSCL,"tart,fruit,intense",3.5,4
+1104,Ecuador,0.82,BS,"oily,spicy,slight burnt",3.5,2
+1105,Trinidad and Tobago,0.75,BSCL,"sandy,vegetal,sour",3.0,4
+1106,Ecuador,0.9,BS,"oily,leather,intense bitter",3.0,2
+1107,Madagascar,0.72,BSCL,"nut,mild coffee",3.0,4
+1110,Ecuador,1.0,B,"candy,uncontrolled bitter",2.5,1
+1111,Venezuela,0.7,BSC,"nut,coffee,rich",3.75,3
+1112,Venezuela,0.7,BSC,"fatty,gritty,roast",3.25,3
+1113,Dominican Republic,0.7,BSC,"raisin,rich chocolate",3.75,3
+1114,Dominican Republic,0.7,BSC,"spicy,mild fruit,fatty",3.5,3
+1115,Bolivia,0.7,BSC,"intense,cherry,metal",3.0,3
+1116,Bolivia,0.7,BSC,"wood,floral,metal",3.0,3
+1117,Nicaragua,0.7,BSC,"earth,metal edge",3.0,3
+1118,Vietnam,0.7,BSC,"spicy,mild roast",3.5,3
+1119,Venezuela,0.74,BSC,"creamy,nut,delicate fruit",4.0,3
+1120,Venezuela,0.7,BSC,"creamy,nut,fruit",4.0,3
+1121,Venezuela,0.72,BSC,"peanut,coffee,cocoa,bread",4.0,3
+1122,Venezuela,0.72,BSC,"creamy,nut,earth",4.0,3
+1123,Venezuela,0.72,BSC,"creamy,cocoa,lemon",3.75,3
+1124,Venezuela,0.72,BSC,"creamy,roasted nut,fatty",3.75,3
+1125,Venezuela,0.72,BSC,"creamy,nut,cocoa",3.75,3
+1126,Venezuela,0.72,BSC,"creamy,nut,muted",3.5,3
+1127,Venezuela,0.72,BSC,"creamy,sour,raisin",3.25,3
+1128,Venezuela,0.72,BSC,"fatty,rich,berry note",3.75,3
+1129,India,0.61,BSCL,"sour,sweet,rubber",2.5,4
+1130,Honduras,0.77,BSC,"butter,intense,spice,roast",3.0,3
+1131,Vietnam,0.72,BSC,"molasses,roast",3.25,3
+1132,Peru,0.72,BS*CL,"sandy,caramel",3.0,4
+1133,Peru,0.72,BS*CL,"very sandy,sweet,spicy",2.75,4
+1134,Madagascar,0.72,BS,"intense,tart,earth",3.5,2
+1135,Belize,0.72,BS,"mild metal,spice,tea",3.25,2
+1136,Dominican Republic,0.72,BS,"roast,nut,spicy",3.25,2
+1137,Peru,0.72,BS,"off note,pungent",2.25,2
+1138,Saint Vincent and the Grenadines,0.72,BSCL,"wood,meaty,vegetal",2.75,4
+1139,Belize,0.7,BS,"intense,cherry,rich,metal",3.5,2
+1140,Dominican Republic,0.7,BS,"intense,molasses,fruit",2.75,2
+1141,Ghana,0.71,BSCVL,"gritty,unrefined,off note",2.0,5
+1142,Venezuela,0.72,BSC,"sandy,sweet",3.25,3
+1143,Ecuador,0.78,BSCL,"full bodied,floral",3.75,4
+1144,Venezuela,0.72,BSC,"dairy,nut,butterscotch",3.5,3
+1145,Vietnam,0.65,BSCL,"sweet,fruit,vanilla",3.5,4
+1146,Ecuador,0.7,BSCL,"floral,bourbon,salt",3.5,4
+1147,Madagascar,0.68,BSCVL,"vanilla,gateway",3.5,5
+1148,Jamaica,0.67,BSCL,"like candy,sweet,dairy",3.0,4
+1149,Peru,0.75,BSCL,"floral,tobacco,candied",3.0,4
+1150,Colombia,0.73,BSCL,"complex,bold,gritty",3.25,4
+1151,Trinidad and Tobago,0.8,BSCL,"bold,spice,sour fruit,gritty",3.25,4
+1152,India,0.66,BSCL,"gritty,coffee,sweet,ham",3.0,4
+1153,Madagascar,0.63,BS,"off note,vanilla,basic cocoa",2.75,2
+1154,Venezuela,0.75,BSC,"harsh,burnt nut,powdery",2.75,3
+1155,Thailand,0.7,BSC,brownie,3.75,3
+1156,Thailand,0.7,BSC,"nut,cocoa,sour vegetal",3.5,3
+1157,Thailand,0.7,BSC,"herb,like tea",3.5,3
+1158,Thailand,0.7,BSC,"floral,earth,grass",3.0,3
+1159,Dominican Republic,0.7,BSCVL,"raisin,prune",3.5,5
+1160,Dominican Republic,0.55,BSCVL,"very sweet,basic cocoa",3.25,5
+1161,Dominican Republic,0.62,BSCVL,"like candy,peanut butter",3.25,5
+1162,Dominican Republic,0.82,BSCVL,"nut,sour milk,off note",3.0,5
+1163,Dominican Republic,0.68,BSCL,"rich cocoa,dried fruit,roast",3.75,4
+1164,Dominican Republic,0.7,BSC,"light color,nut,caramel",3.75,3
+1165,Dominican Republic,0.67,BSCL,"banana,fall spice,earth",3.75,4
+1166,Dominican Republic,0.68,BSCL,"creamy,floral,dried fruit",3.75,4
+1167,Dominican Republic,0.65,BSCL,"creamy,distinct,dried fruit",3.75,4
+1168,Dominican Republic,0.715,BSC,"creamy,balanced,fig,cocoa",3.5,3
+1169,Dominican Republic,0.7,BSC,"sandy,sweet,acidic",3.0,3
+1170,Dominican Republic,0.72,BSCL,"creamy,black tea,vegetal",3.0,4
+1171,Tanzania,0.75,BSC,"base cocoa,fruit,fatty",3.25,3
+1172,Nicaragua,0.75,BSC,"spicy,tobacco",3.0,3
+1173,Peru,0.75,BSC,"muted,grape,astringent",3.0,3
+1176,Ecuador,0.7,BSCV,"intense,mint,marshmallow",3.5,4
+1177,Ecuador,0.7,BSCV,"creamy,mild marshmallow",3.0,4
+1178,Ecuador,0.85,BSCV,"spicy,mild bitter",3.0,4
+1179,Ecuador,0.85,BSCV,"fruit,floral,cooling sensation",3.0,4
+1180,Ecuador,0.75,BSCV,"sweet,vanilla,coffee",2.75,4
+1181,Ecuador,0.85,BSCV,"creamy,nut,bitter,flat",2.75,4
+1182,Ecuador,0.85,BSCV,"crumbly,vanilla,bitter",2.5,4
+1183,Ecuador,0.75,BSCV,"grass,earth,coffee",2.5,4
+1186,Dominican Republic,0.7,BSC,"fatty,dark berry,grass",3.75,3
+1187,Mexico,0.72,BSCVL,"sweet,vanilla dominant,nut",2.0,5
+1188,Colombia,0.7,BSC,"poor finish,cocoa,grass",3.25,3
+1189,Dominican Republic,0.6,BS,"gritty,overly sweet,citrus",3.0,2
+1190,Mexico,0.7,BS,"medium roast,nut",3.25,2
+1191,Belize,0.7,BS,"gritty,sour,berry",3.0,2
+1192,Vietnam,0.7,BS,"sticky,molasses,sour",3.0,2
+1193,Mexico,0.7,BS,"intense,high acidity",3.75,2
+1194,Philippines,0.7,BS,"nut,dried fruit,grass",3.25,2
+1195,Madagascar,0.7,BS,"roast,nut",3.0,2
+1196,Papua New Guinea,0.7,BS,"astringent,smoke cocoa",3.25,2
+1197,Colombia,0.7,BS,"light color,",3.0,2
+1198,Madagascar,0.72,BSC,"strawberry,intense,sour",3.25,3
+1199,Belize,0.9,BS,"intense,spicy,pungent",3.25,2
+1200,Dominican Republic,0.72,BSC,"spicy,molasses,earth",3.25,3
+1201,Dominican Republic,0.72,BSC,"earth,fatty,tea",3.25,3
+1202,Belize,0.72,BSC,"nut,sour milk",3.0,3
+1203,Venezuela,0.72,BSC,"nut,pungent,sour",2.75,3
+1204,Peru,0.72,BS,"intense,pungent,tang",2.5,2
+1205,Brazil,0.7,BSCL,"creamy,mild flavors",3.75,4
+1206,Ecuador,0.7,BSCL,orange,3.75,4
+1207,Haiti,0.7,BSCL,"spicy,vanilla,dairy",3.25,4
+1208,Peru,0.7,BSCL,"astringent,unbalanced,off",2.75,4
+1209,Dominican Republic,0.725,BSCVSa,"vanilla,like candy,sour milk",3.0,5
+1210,Madagascar,0.725,BSCVSa,"mild vanilla,mild fruit",3.0,5
+1211,Uganda,0.725,BSCVSa,"vanilla,earth,cardboard",2.5,5
+1212,Ecuador,0.725,BSCVSa,"intense,bourbon,vanilla",2.5,5
+1213,Madagascar,0.64,BSCVL,"smooth,rich,lemon",3.5,5
+1214,Bolivia,0.68,BSCVL,"rich,spice,cheesy",3.0,5
+1215,Dominican Republic,0.74,BSCVL,"simple,rich hot cocoa",3.75,5
+1216,Grenada,0.75,BSCVL,"creamy,cocoa,spice",3.25,5
+1217,Venezuela,0.71,BSCVL,"cocoa,nut,acidic,burn",3.0,5
+1218,Ecuador,0.74,BSCVL,"spicy,roast,coffee",3.75,5
+1219,Brazil,0.7,BSCVL,"creamy,wood,nut",4.0,5
+1220,Venezuela,0.68,BSCVL,"berry,rich cocoa dominant",3.75,5
+1221,Peru,0.74,BSCVL,"floral,soap,earth",3.25,5
+1222,Fiji,0.68,BSC,"unrefined,sweet,basic cocoa",3.0,3
+1227,Belize,0.7,BSCL,"molasses,high acidity",3.25,4
+1228,Guatemala,0.7,BS,"tart,molasses,grits",3.25,2
+1229,Dominican Republic,0.7,BS,"anise,spicy,earth",3.0,2
+1230,Peru,0.75,BS,"earth,molasses,dried fruit",3.0,2
+1231,Belize,0.7,BS,"fruit,cocoa,grape",3.5,2
+1232,Guatemala,0.7,BS,"dry,melon,cocoa",3.5,2
+1233,Peru,0.72,BS,"sandy,grape",3.5,2
+1234,Multiple Countries,0.74,BSCL,"roast,dark berry,rich",3.5,4
+1235,Multiple Countries,0.6,BSCL,"cocoa,caramel,sweet",3.75,4
+1236,Venezuela,0.69,BSCL,"nut,grass,rich cocoa",3.5,4
+1237,Ghana,0.68,BSCL,"rich cocoa,burn sensation",3.25,4
+1238,Multiple Countries,0.6,BSCL,"rich,sweet,cocoa,intense",3.0,4
+1239,Grenada,0.68,BSCL,"rich,vegetal,banana,spice",3.5,4
+1240,Dominican Republic,0.66,BSCL,"nut,pear,sour milk",3.5,4
+1241,Trinidad and Tobago,0.6,BSCL,"creamy,rich,dairy,nut",3.25,4
+1242,Ecuador,0.56,BSCL,"sweet,nut,cocoa",3.25,4
+1243,Multiple Countries,0.74,BSCL,"brownie,cocoa,sour,sweet",2.75,4
+1246,Mexico,0.7,BS,"rich cocoa,mild fruit , nut",3.5,2
+1247,Mexico,0.7,BS,"citrus,pronounced orange",3.5,2
+1248,Mexico,0.7,BS,"mild ham,roast,sour",3.0,2
+1249,Cuba,0.7,BSCL,"fatty,roast,coffee,off note",2.75,4
+1250,Multiple Countries,0.68,BSCL,"nut,wood,leather",2.75,4
+1251,Vietnam,0.75,BSCL,"creamy,mild honey,floral",3.75,4
+1252,Sao Tome and Principe,0.75,BSCL,"rich,roast,nut,smoke",3.5,4
+1253,Peru,0.75,BSCL,"sandy,fatty,roast,fruit",3.25,4
+1254,Brazil,0.75,BSCL,"smoke,rich cocoa,spice",3.25,4
+1255,Cuba,0.75,BSCL,"slight burnt,astringent,fruit",3.0,4
+1256,Côte d’Ivoire (aka Ivory Coast),0.75,BSCL,"roast,nut,rich cocoa",3.0,4
+1257,Madagascar,0.75,BSCL,"roast,sour,cardboard",2.75,4
+1258,Vietnam,0.75,BSCL,"gritty,roast,waxy,off",2.75,4
+1261,Venezuela,0.75,BSCVL,"chalky,fatty,sweet",3.0,5
+1262,Venezuela,0.75,BSCVL,"chalky,cocoa,tang",3.0,5
+1263,Multiple Countries,0.72,BSCVL,"fatty,nut,wood",3.0,5
+1264,Nicaragua,0.8,BS,"spicy,grass,roast",3.5,2
+1265,Nicaragua,0.73,BSC,"complex,dairy,roast",3.5,3
+1266,Honduras,0.7,BSC,"sandy,rich cocoa",3.25,3
+1267,Nicaragua,0.71,BSC,"simple,earth,cocoa",3.0,3
+1268,Bolivia,0.74,BSC,"well balanced,melon",3.75,3
+1269,Peru,0.7,BSC,"sandy,light color,grape",3.5,3
+1270,Costa Rica,0.7,BSC,"base cocoa,mild ham,wood",3.25,3
+1271,Colombia,0.7,BSC,"sandy,off,ham",2.75,3
+1272,Peru,0.7,BS,"intense,sticky,cocoa",3.5,2
+1273,Trinidad and Tobago,0.7,BS,"cocoa,spice,fruit",3.5,2
+1274,Tanzania,0.7,BS,"subtle,spicy,banana",3.5,2
+1275,Bolivia,0.7,BS,"dried fruit,nut,mushroom",3.25,2
+1276,Dominican Republic,0.7,BS,"red fruit,brownie",3.25,2
+1277,Costa Rica,0.7,BS,"roast,black pepper,wood",3.0,2
+1278,Liberia,0.7,BS,"floral,black licorice",3.25,2
+1279,Peru,0.7,BSC,"mild,licorice,coffee,cocoa",4.0,3
+1280,Honduras,0.7,BS,"strong raspberry,mocha",3.5,2
+1281,Belize,0.7,BS,"smoke,mild berry",3.25,2
+1282,Ghana,0.7,BSC,brownie,3.75,3
+1283,Jamaica,0.7,BSC,"wood,mocha,molasses",3.25,3
+1284,Bolivia,0.7,BSC,"spoiled milk,sweet,molasses",3.25,3
+1285,Madagascar,0.71,BSC,"sandy,citrus",3.5,3
+1286,Madagascar,0.7,BS,"sweet edge,bright fruit,off",3.0,2
+1287,Peru,0.68,BS,"rich cocoa,spicy edge",3.75,2
+1288,Peru,0.65,BS,"creamy,strawberry,cocoa",3.5,2
+1289,Bolivia,0.68,BS,"fatty,nut,like melon",3.5,2
+1290,Bolivia,0.68,BS,"fatty,grass,cocoa",3.5,2
+1291,Dominican Republic,0.74,BS,"fatty,roast,cocoa",3.0,2
+1292,Multiple Countries,0.75,BS,"grits,roasted,nut",2.75,2
+1293,Multiple Countries,0.85,BSCV,"harsh burnt,mild cocoa,tang",3.0,4
+1294,India,0.72,BS,"basic cocoa,dirt,burnt edge",3.0,2
+1295,Sierra Leone,0.72,BS,"grass,rubber,chemical",2.5,2
+1296,Vietnam,0.72,BS,"spicy,sweet,cocoa",3.0,2
+1297,Puerto Rico (United States Territory),0.65,BSCVL,"black pepper,vanilla,harsh",2.5,5
+1298,United States,0.7,BSCV,"sandy,floral,vanilla,candy",3.5,4
+1299,United States,0.71,BSCV,"aluminum,mild coffee,roast",3.0,4
+1300,United States,0.72,BSCV,"strong,brandy,smoke",3.0,4
+1301,United States,0.7,BS,"spicy,candied,complex",3.75,2
+1302,United States,0.75,BSCV,"dairy,pudding",3.75,4
+1303,United States,0.65,BSCV,"sweet,like candy,nut",3.25,4
+1304,Nicaragua,0.75,BS,"multiple off flavors,metal",2.0,2
+1305,Nicaragua,0.78,BS,intense mocha flavor,3.5,2
+1306,Nicaragua,0.8,BS,"nut,mild dairy",3.25,2
+1307,Indonesia,0.7,BS,"smoke,earth,cocoa",3.0,2
+1308,Nicaragua,0.75,BS,potting soil,2.5,2
+1309,Brazil,0.81,BS,"oily,burnt,earth",3.25,2
+1310,Brazil,0.7,BS,"rustic,basic cocoa,earth",3.0,2
+1311,Papua New Guinea,0.72,BSC,"smoke,fruit,ham,fatty",3.25,3
+1312,Colombia,0.65,BSCVL,"marshmallow,rich brownie",3.5,5
+1313,Multiple Countries,0.6,BSCVL,"sticky,marshmallow,cocoa",3.0,5
+1314,Multiple Countries,0.58,BSCVL,"watered down coffee,cocoa",3.0,5
+1315,Multiple Countries,0.46,BSCVL,"very sweet,caramel,candy",2.75,5
+1316,Côte d’Ivoire (aka Ivory Coast),0.67,BSC,"spice,coconut",3.5,3
+1317,Madagascar,0.73,BSC,"roasted pear,cocoa,sour",3.25,3
+1318,Tanzania,0.75,BSC,"fatty,dominant roast,spice",3.25,3
+1319,Uganda,0.68,BSC,"candied,sweet cocoa,roast",3.25,3
+1320,India,0.72,BSC,"deep cocoa,slight pungent,sandy",3.0,3
+1323,Ghana,0.75,BSC,"gritty,cocoa base,ashy",2.75,3
+1324,Uganda,0.75,BSC,"gritty,roast,rubber",2.5,3
+1325,Madagascar,0.63,BSCVL,"intense,nut,cocoa",4.0,5
+1326,Madagascar,0.7,BSCVL,"sandy,wood,peanut butter",3.75,5
+1327,Madagascar,0.67,BSCVL,"sandy,red berry,cocoa",3.5,5
+1328,Madagascar,0.75,BSCVL,"sticky,bitter,nut",3.5,5
+1329,Mexico,0.72,BSCV,"raisin,chewy",2.75,4
+1330,Costa Rica,0.7,BSCV,"sticky,strong vanilla,pepper",2.75,4
+1331,Dominican Republic,0.7,BSCV,"sandy,sweet,strong vanilla",2.5,4
+1332,United States,0.7,BSCV,"vanilla,brownie,peanut",3.5,4
+1333,United States,0.7,BSCV,"creamy,vanilla,rich fruit",3.25,4
+1334,United States,0.7,BSCV,"creamy,burnt nut,wood",3.25,4
+1335,Brazil,0.7,BSCV,"strong vanilla,nut,coffee",3.5,4
+1336,Puerto Rico (United States Territory),0.7,BSCV,"intense vanilla,swiss miss",2.75,4
+1337,United States,0.7,BSCV,"fatty,vanilla,like candy",2.75,4
+1338,Mexico,0.7,BSCV,"vanilla,earth,caramel",2.75,4
+1339,Solomon Islands,0.73,BS,"mild earth,mild cocoa,nut",3.5,2
+1340,Dominican Republic,0.7,BSCVL,"creamy,hay,nut",3.75,5
+1341,Cuba,0.7,BSCVL,"nut,cooling sensation",3.25,5
+1342,Ecuador,0.7,BSVL,"creamy,nut,mass market",3.0,4
+1343,Tanzania,0.75,BSCV,"chalky,astringent,vanilla",2.0,4
+1344,Ecuador,0.7,BSCL,"strong vanilla,some spice",2.0,4
+1345,Madagascar,0.73,BSCL,"creamy,subtle grape note",3.5,4
+1346,Madagascar,0.75,BSCL,"cardboard,like tea",2.75,4
+1347,Philippines,0.65,BSCVL,"sandy,sweet,cocoa",3.5,5
+1348,Thailand,0.7,BS*C,"gummy,smoke,ham",2.75,3
+1349,United States,0.55,BSCVL,"sweet,vanilla,easter candy",2.75,5
+1350,United States,0.55,BSCVL,"creamy,crunchy,very sweet",3.5,5
+1351,Venezuela,0.7,BSC,"ham,unrecognizable",3.0,3
+1352,Dominican Republic,0.74,BSC,"berry,nut,sour",3.75,3
+1353,Venezuela,0.74,BSC,"nut,green",2.75,3
+1354,Peru,0.74,BSC,"rubber,off medicinal",2.5,3
+1355,Ecuador,0.74,BS,"soil,wet,off note",2.5,2
+1356,Colombia,0.7,BSCL,"muted,nut",2.75,4
+1357,Liberia,0.72,BSC,"molasses,intense,off,herb",3.25,3
+1358,United States,0.72,BSC,"molasses,sweet,cocoa",3.25,3
+1359,Peru,0.72,BSC,"banana,menthol,medicinal",3.0,3
+1360,United States,0.72,BSC,"oily,tang,fruit,earth",2.75,3
+1361,United States,0.72,BSC,"orange,cocoa",3.75,3
+1362,Costa Rica,0.72,BSC,"dried fruit,balanced,cocoa",3.75,3
+1363,Papua New Guinea,0.72,BSC,"smoke,fruit",3.5,3
+1364,Peru,0.7,BSC,"sweet,fatty,fig",3.25,3
+1365,United States,0.7,BSC,"dried fruit,spicy,sticky,intense",3.5,3
+1366,Ghana,0.7,BS,"cocoa,coconut",3.5,2
+1367,Dominican Republic,0.7,BS,"chewy,like brownie",3.25,2
+1368,Ecuador,0.7,BS,"grits,roasted brownie",3.25,2
+1369,Venezuela,0.7,BS,"nut,intense,roast",3.75,2
+1370,Colombia,0.85,BS,"coarse,intense,nut",3.5,2
+1371,Nicaragua,0.7,BSC,"basic,balanced,deep cocoa",3.75,3
+1372,Peru,0.7,BSC,"nut,roast,",3.5,3
+1373,Dominican Republic,0.7,BSC,"fruit,tang,cocoa",3.5,3
+1374,Peru,0.62,BSC,"delicate,caramel,peanut",3.5,3
+1375,Ecuador,0.7,BSC,"coarse,floral,rum",3.5,3
+1376,Nicaragua,0.7,BSC,"rich,bright fruit",3.5,3
+1377,Peru,0.68,BSC,"lemon,spicy,cocoa",3.5,3
+1378,Honduras,0.78,BSC,"grass,wood,sweet",3.5,3
+1379,Tanzania,0.72,BSC,"sweet,fatty,roast",3.0,3
+1380,Trinidad and Tobago,0.7,BSC,"heavy roast,few grits,rich",2.75,3
+1381,Colombia,0.75,BSC,"roast,coffee,rubber",2.75,3
+1382,Vietnam,0.75,BSC,"intense,sour,tart",3.25,3
+1383,Vietnam,0.73,BS,"earth,tobacco,ashy",3.0,2
+1384,Dominican Republic,0.72,BSC,"complex,creamy,cherry",3.5,3
+1385,Mexico,0.72,BSC,"sweet,spicy,dirt",3.25,3
+1386,Multiple Countries,0.72,BSC,"off note,rubber,ham",3.0,3
+1387,Peru,0.7,BSCL,"pungent,tang,grape",3.0,4
+1388,Peru,0.7,BSC,"pungent,grape,brownie",3.0,3
+1389,Peru,0.7,BSC,"smoke,dirt,sour",2.75,3
+1390,Multiple Countries,0.75,BS,"earth,coffee,roast",3.25,2
+1391,Haiti,0.75,BS,"dried fruit,wood,dirt",2.75,2
+1392,Vietnam,0.76,BSC,citrus,3.5,3
+1393,Vietnam,0.72,BSC,"roast,coffee",3.5,3
+1394,Vietnam,0.7,BSC,"cocoa,spice,late sour",3.5,3
+1395,Vietnam,0.78,BSC,"sticky,pepper,cinnamon,rich",3.5,3
+1396,Vietnam,0.74,BSC,"melon,roast",3.5,3
+1397,Vietnam,0.8,BSC,"creamy,fatty,black pepper",3.0,3
+1398,Vietnam,0.75,BSC,"fatty,heavy roast,nut",3.5,3
+1399,Vietnam,0.7,BS,"spicy,fragrant",3.75,2
+1400,Vietnam,0.68,BS,"roast,rich,coffee,nut",3.5,2
+1401,Vietnam,0.85,BS,"long,mild honey,rich cocoa",3.25,2
+1402,Vietnam,0.75,BSC,"fatty,roast,nut",3.5,3
+1407,Dominican Republic,0.89,BSCV,"fatty,rubber,medicinal",2.5,4
+1408,Dominican Republic,0.74,BSCV,"waxy,rubber,medicinal",2.25,4
+1409,Colombia,0.74,BSC,"sandy,mild floral,mild nut",3.25,3
+1410,Haiti,0.82,BSC,"sandy,earth,sweet edge",3.0,3
+1411,Bolivia,0.76,BSC,"sticky,pungent,off note",2.75,3
+1412,Dominican Republic,0.7,BS,"sticky,earth,coffee",3.25,2
+1413,Venezuela,0.75,BS,"dry,sticky,nut,earth",3.0,2
+1414,Venezuela,0.81,BS,"sticky,wood,musty",2.75,2
+1415,Dominican Republic,0.74,BS,"gritty,raspberry,sour",3.75,2
+1416,Multiple Countries,0.72,BS,"rich cocoa,coffee,roast",3.5,2
+1417,Belize,0.7,BS,"gritty,tang,cocoa",3.5,2
+1418,Dominican Republic,0.73,BS,"dry,gritty,red berry,coffee",3.25,2
+1419,Venezuela,0.76,BS,"sandy,strawberry,sour",3.0,2
+1420,Venezuela,0.7,BS,"dry,sandy,intense,berry",3.0,2
+1421,Peru,0.75,BS,"orange,lemon,coffee grounds",3.0,2
+1422,Venezuela,0.81,BS,"gritty,high astringent,sour",2.75,2
+1423,Papua New Guinea,0.71,BS,"gritty,sticky,smoke,ham",2.75,2
+1424,Multiple Countries,0.73,BS,"gritty,fruit,tart,rich",3.5,2
+1425,Venezuela,0.73,BS,"gritty,sour,sweet",2.75,2
+1426,Multiple Countries,0.72,BS,"gritty,overly tart,sour",2.5,2
+1427,Multiple Countries,0.75,BS,"tart,deep chocolate",3.75,2
+1428,Tanzania,0.74,BS,"green,vegetal,mild spice",3.25,2
+1429,Guatemala,0.76,BS,"mild bitter,citrus,intense",3.0,2
+1430,Madagascar,0.68,BSC,"sticky,red fruit",4.0,3
+1431,Papua New Guinea,0.74,BSC,"creamy,grass,smoke,nut",4.0,3
+1432,Multiple Countries,0.7,BSC,"nut,fruit,spicy",3.75,3
+1433,Vanuatu,0.72,BSC,"sticky,butterscotch,nut",3.5,3
+1434,Peru,0.63,BSC,"sweet,cherry,cream,raisin",3.5,3
+1435,Belize,0.7,BS,"heavy roast,smoke",3.25,2
+1436,Dominican Republic,0.7,BS,"roast,coffee",3.25,2
+1437,Peru,0.82,BS,"intense,burnt,bitter,spice",3.25,2
+1438,Madagascar,0.65,BSC,"sweet edge,sour fruit",3.25,3
+1439,United States,0.7,BSC,"nut,cheesy,savory",3.0,3
+1440,Vietnam,0.75,BSC,"roast,ham,dirt",3.0,3
+1441,Dominican Republic,0.72,BS,"gritty,sweet,earth",3.0,2
+1442,Belize,0.7,BSC,"cocoa,strawberry",3.25,3
+1443,Guatemala,0.7,BSC,"musty,wood,rubber,roast",2.5,3
+1444,Dominican Republic,0.7,BS,"high roast,nut,deep chocolate",3.5,2
+1445,Belize,0.7,BS,"spicy,metal,molasses",3.0,2
+1446,Nicaragua,0.7,BS,"fatty,slight bland,earth",3.0,2
+1447,Venezuela,0.7,BS,"molasses,sweet,chocolate",2.75,2
+1448,Bolivia,0.7,BS,"pungent,off",2.5,2
+1449,Philippines,0.7,BS*,"smooth,coconut,cocoa",3.25,2
+1450,Tanzania,0.7,BS*,"creamy,coconut,cocoa",3.25,2
+1451,Dominican Republic,0.7,BS*,"dry,floral,dirt,coconut",2.75,2
+1452,Ecuador,0.85,BS*,"floral,earth,bitter",2.5,2
+1453,Madagascar,0.8,BSCL,"sticky,tart,slight burnt",2.5,4
+1454,Madagascar,0.72,BSCL,"uneven,smoke,ham",2.5,4
+1455,Honduras,0.7,BSC,"intense,grass,spicy,rich",3.5,3
+1456,Nicaragua,0.8,BSC,"dried fruit,rich cocoa",3.5,3
+1457,Honduras,0.8,BSC,"intense,ham,butterscotch",3.25,3
+1458,Nicaragua,0.7,BSC,"acidic,pomegranate,brownie",3.25,3
+1459,El Salvador,0.7,BSC,"dairy,caramel",3.0,3
+1460,El Salvador,0.8,BSC,"fatty,bitter,wood,roast",2.75,3
+1461,Brazil,0.75,BSC,"earth,floral,rubber",2.5,3
+1462,Madagascar,0.72,BSC,"creamy,fatty,mild cherry",3.5,3
+1463,Brazil,0.7,BSC,"fatty,creamy,olive",3.0,3
+1464,Solomon Islands,0.67,BSC,"dried fruit,mild ham",3.75,3
+1465,Solomon Islands,0.72,BSC,"roast,smoke,high acidity",3.25,3
+1466,Multiple Countries,0.7,BSV,"accessible,simple cocoa note",3.5,3
+1467,Peru,0.7,BSC,"grape,mild smoke,sandy",3.5,3
+1468,Dominican Republic,0.67,BSCV,"creamy,raisin,licorice",3.75,4
+1469,Madagascar,0.65,BSCV,"grapefruit,spice",3.75,4
+1470,Papua New Guinea,0.64,BSCV,"tropical fruit,mild smoke",3.75,4
+1471,Sao Tome and Principe,0.7,BSCV,"creamy,licorice,herb",3.0,4
+1472,Multiple Countries,0.6,BSCV,"sweet,crisp nibs",2.0,4
+1473,Multiple Countries,0.85,BSCV,bitter coffee flavor,2.0,4
+1474,Multiple Countries,0.99,BSCV,"smooth,bold,bitter",2.0,4
+1475,Venezuela,0.66,BSCV,"cocoa,orange",3.5,4
+1476,Sao Tome and Principe,0.67,BSCV,"creamy,smoke,raspberry",3.5,4
+1477,Mexico,0.66,BSCV,"raisin,melon",3.75,4
+1478,Colombia,0.69,BSCV,"sandy,earth,fatty",3.25,4
+1479,Guatemala,0.7,BSCV,"dairy,cocoa,fatty,apple",3.5,4
+1480,Brazil,0.7,BSCV,"sandy,grits,nut,vanilla",3.0,4
+1481,Indonesia,0.7,BS*CSa,"leather,salt",2.5,4
+1482,Bolivia,0.75,BS*CSa,"sticky,cardboard,why bother",2.0,4
+1483,Multiple Countries,0.65,BS*CSa,"chemical,salt,wtf",1.5,4
+1484,Belize,0.8,BSCSa,"strawberry,cream,spice",3.25,4
+1485,Dominican Republic,0.75,BS*Sa,"molasses,palm,spicy",2.5,3
+1486,Dominican Republic,0.75,BSC,"spicy,rich,mint",3.75,3
+1487,Venezuela,0.75,BSC,"nut,grass,wood",3.75,3
+1488,Belize,0.8,BSC,"wood,lemon,mild bitter",3.5,3
+1489,Trinidad and Tobago,0.7,BSC,"black pepper,dairy",3.5,3
+1490,Nicaragua,0.7,BSC,"rum,herb,rich",3.5,3
+1491,Tanzania,0.75,BSC,"banana,melon,fatty",3.25,3
+1492,Belize,0.7,BSC,"grape,cocoa",3.5,3
+1493,India,0.7,BSC,"candy spice,sweet",3.25,3
+1494,Peru,0.7,BSC,"complex,true to origin",3.25,3
+1495,Dominican Republic,0.7,BSC,"fatty,simple",3.0,3
+1496,Ecuador,0.7,BSCV,"wine,brownie batter",3.5,4
+1497,Ecuador,0.7,BSCV,"unrefined,burnt nut,vanilla",2.5,4
+1498,Ecuador,0.7,BSC,"sandy,nutmeg,astringent",3.0,3
+1499,India,0.74,BSC,"dry,sandy,empty,sweet",3.0,3
+1500,Brazil,0.76,BSC,"dry,sandy,dirt,empty",3.0,3
+1501,Peru,0.7,BS,"grape,thick,chewy",3.75,2
+1502,Madagascar,0.7,BS,"cocoa,mild pear,sticky",3.5,2
+1503,Vietnam,0.7,BS,"coconut,late sour",3.25,2
+1504,Brazil,0.7,BS,"intense,sour,ham",3.0,2
+1505,Ecuador,0.77,BSC,"dry,coffee note from roast",2.75,3
+1506,Ecuador,0.67,BSC,"sandy,harsh,floral",2.75,3
+1507,Haiti,0.7,BS,"gritty,sweet,earth",3.5,2
+1509,Vietnam,0.65,BS,"slight grainy,roast,spicy",3.5,2
+1510,Madagascar,0.72,BS,"tang,roast,ham",3.25,2
+1511,Papua New Guinea,0.72,BS,"few grits,intense smoke",3.0,2
+1512,Tanzania,0.72,BSC,"complex,fruit,nut,rich",3.75,3
+1513,Vietnam,0.7,BSC,"sour fig,cocoa,creamy,fatty",3.5,3
+1514,Brazil,0.7,BS,"coarse,smoke,citrus",3.5,2
+1515,Brazil,0.75,BS,"sticky,blackberry,acidic",3.75,2
+1516,Puerto Rico (United States Territory),0.7,BSC,"powdery,intense,floral",3.0,3
+1518,Belize,0.67,BSC,"rough,sweet,dairy,vanilla",2.75,3
+1519,Belize,0.73,BSC,basic cocoa,3.25,3
+1520,Belize,0.72,BSC,"strawberry,blueberry",3.0,3
+1521,Cameroon,0.68,BS,earth,3.0,2
+1522,Brazil,0.72,BSC,"dirt,rubber,spicy",2.5,3
+1523,Tanzania,0.72,BS,"cocoa,fig,classic",3.75,2
+1524,Dominican Republic,0.7,BS,"dark berry,earth",3.5,2
+1525,Sierra Leone,0.72,BSC,"roast,honey,sweet",3.0,3
+1526,Peru,0.7,BS,"dry,nut,fruit",3.25,2
+1527,Dominican Republic,0.7,BS,"overly intense,tart,red fruit",3.0,2
+1528,Indonesia,0.7,BS,"intense,smoke,floral",2.75,2
+1529,Nicaragua,0.7,BS,"unrefined,hay,sweet",2.75,2
+1530,Nicaragua,0.7,BS,"unrefined,bright berry,sweet",2.75,2
+1531,Nicaragua,0.7,BSC,"fatty,floral,spicy",3.25,3
+1532,Dominican Republic,0.72,BS,"earth,spicy,cocoa",3.5,2
+1534,Mexico,0.7,BSC,"chalky,powdery,molasses",3.25,3
+1535,Ecuador,0.75,BS,"intense,floral,cocoa,long lasting",3.75,2
+1539,Mexico,0.7,BSC,"light color,spicy,sweet,sour",3.0,3
+1540,Nicaragua,0.7,BSC,"grass,spicy,sweet",3.5,3
+1541,Nicaragua,0.8,BSC,"sweet,rich",3.5,3
+1542,Venezuela,0.7,BS,"fruit,roast",3.5,2
+1543,Vietnam,0.8,BS,"gritty,tart,molasses",3.0,2
+1544,Dominican Republic,0.71,BS,"gritty,sweet,earth",2.75,2
+1545,Tanzania,0.68,BS,"dry,earth,atypical",2.75,2
+1546,Madagascar,0.68,BS,"sweet,molasses,gritty",2.75,2
+1547,Costa Rica,0.7,BSC,"earth,spicy,cocoa",3.0,3
+1548,Costa Rica,0.58,BSC,"too sweet,earth,off note",2.5,3
+1549,Grenada,0.71,BSCV,"sandy,orange",2.5,4
+1550,Multiple Countries,0.7,BSCL,"sandy,floral,spice,roast",3.75,4
+1551,Peru,0.78,BSCL,"orange,floral,caramel",3.75,4
+1552,Nicaragua,0.7,BSCL,"sandy,intense,tropical fruit",3.25,4
+1553,Venezuela,0.7,BSCL,"coarse,sweet",3.0,4
+1554,Venezuela,0.75,BSCL,"coarse,sweet,mint",2.75,4
+1555,El Salvador,0.7,BSC,"bold,savory,creamy",3.25,3
+1556,Nicaragua,0.67,BSC,"strong,rubber,wood,sweet",2.75,3
+1558,Ghana,0.7,BSC,"brownie,toffee",3.5,3
+1559,Dominican Republic,0.7,BS*,"grass,dirt,mild spice",2.5,2
+1560,Madagascar,0.735,BS,"intense,pungent,sour fruit",2.5,2
+1561,Peru,0.72,BS,"metal,medicinal,pungent",2.25,2
+1562,Dominican Republic,0.7,BS,"dry,sandy,sweet,acidic",3.25,2
+1563,Venezuela,0.71,BSCVL,"pasty,complex,coffee,vanilla",3.0,5
+1564,Sao Tome and Principe,0.75,BSCVL,"grass,earth,burnt",2.75,5
+1565,Multiple Countries,0.73,BSCVL,"nondescript,poor aftertaste",2.0,5
+1566,Multiple Countries,0.73,BSCVL,"pasty,strong off flavor",1.0,5
+1567,Trinidad and Tobago,0.67,BSCVL,"complex,intense banana",3.75,5
+1568,Papua New Guinea,0.7,BSCVL,"gritty,vanilla,nondescript",2.5,5
+1569,Madagascar,0.72,BS,"molasses,bright fruit",3.0,2
+1570,Peru,0.72,BS,"molasses,malt,raisin",3.0,2
+1571,Dominican Republic,0.72,BS,"molasses,rum,tea",2.75,2
+1572,Venezuela,0.72,BS,"molasses,nut,roast,bitter",2.25,2
+1573,Brazil,0.72,BS,note from sugar,3.0,2
+1574,Ecuador,0.75,BSC,"single note,spicy",3.5,3
+1575,Peru,0.75,BSC,"spicy,red fruit,raisin",2.75,3
+1576,Ecuador,0.72,BSC,"floral,cocoa,creamy",3.75,3
+1577,Peru,0.7,BSC,"pungent,grape,sour",3.0,3
+1578,Tanzania,0.72,BSC,"sweet,melon note",3.0,3
+1579,Dominican Republic,0.72,BSC,"basic cocoa,sour end",3.0,3
+1580,Vietnam,0.72,BSC,"spicy,vanilla,sweet",2.75,3
+1581,Colombia,0.72,BSC,"strong base cocoa,rubber",3.25,3
+1582,Fiji,0.74,BSC,"sour,rubber,off",2.75,3
+1583,Peru,0.75,BS*VL,"roast,mild orange",3.25,4
+1584,Ghana,0.75,BS*VL,"nut,high roast,spice",3.0,4
+1585,Belize,0.75,BS*VL,"coconut,mild metal",3.0,4
+1588,Ecuador,0.8,BS,"sandy,strawberry",3.25,2
+1589,Nicaragua,0.7,BS,"wood,coffee,roasted cherry",3.0,2
+1590,Nicaragua,0.75,BS,"fatty,honey,earth",2.75,2
+1591,Ghana,0.7,BS,"rich,cherry,smoke,cocoa",3.75,2
+1592,Dominican Republic,0.7,BS,"rich,mild smoke,red fruit",3.75,2
+1593,Madagascar,0.7,BS,"fruit,sour,high astringent",3.5,2
+1594,Venezuela,0.7,BS,"intense,slight burnt",3.0,2
+1595,Ecuador,0.7,BS,"earth,roasted nut",2.75,2
+1596,Vietnam,0.7,BSC,"spicy,cocoa,ham",3.25,3
+1597,Nigeria,0.7,BSC,"cocoa,nut,dried fruit,rubber",3.0,3
+1598,Brazil,0.7,BSC,"nut,banana,cocoa",3.5,3
+1599,Jamaica,0.7,BSCVL,"grass,vanilla,burnt",2.5,5
+1600,Peru,0.7,BS,"creamy,roast,mild grape",3.75,2
+1601,Peru,0.7,BS,"intense grape,sweet cocoa",3.75,2
+1602,Peru,0.75,BSC,"peanut butter,raspberry",4.0,3
+1603,Republic of the Congo,0.7,BSC,"melon,earth,tobacco",3.75,3
+1604,Papua New Guinea,0.74,BS,"smoke,intense,coffee",3.5,2
+1605,Papua New Guinea,0.88,BS,"intense,bitter,sour,smoke",3.25,2
+1606,Papua New Guinea,0.7,BS,"smoke,sour fruit,ham",3.0,2
+1607,Papua New Guinea,0.66,BS,"smoke,sour fruit,ham",2.75,2
+1608,Samoa,0.7,BS,"cocoa,roast,nut",3.5,2
+1609,Samoa,1.0,B,"bitter,intense,nut",2.75,1
+1610,Bolivia,0.7,BS,"silky smooth,cherry,cocoa",3.75,2
+1611,Vietnam,0.7,BS,"complex,cranberry,malt,vanilla",3.75,2
+1612,Uganda,0.7,BS,"dominant hazelnut,fudge",3.25,2
+1613,India,0.7,BS,"intense tart,sour",3.25,2
+1614,Colombia,0.7,BS,"walnut,tobacco,grass",3.25,2
+1615,Guatemala,0.7,BS,"damp wood,leather,cocoa",3.0,2
+1616,Tanzania,0.7,BS,"sour banana,muted",3.0,2
+1617,Tanzania,0.7,BSC,"sweet,sandy,fruit,pungent",3.0,3
+1618,Trinidad and Tobago,0.7,BSC,"off note,sour,roast",2.75,3
+1619,Bolivia,0.7,BS,"rich cocoa,one dimensional",3.5,2
+1620,Brazil,0.78,BSC,"creamy,cherry,acidic",3.75,3
+1621,Multiple Countries,0.75,BSC,"fatty,cheesy,musty",3.0,3
+1622,Multiple Countries,0.67,BSC,"sandy,cheesy,sour",2.75,3
+1623,Dominican Republic,0.72,BSC,"earth,cheesy",3.0,3
+1624,Ghana,0.72,BSC,"gritty,simple cocoa,burnt",3.0,3
+1625,Multiple Countries,0.85,BSCVL,"sticky,berry,bitter",3.0,5
+1626,Multiple Countries,0.76,BSCVL,"rubber,cocoa,bitter",2.75,5
+1627,Multiple Countries,0.85,BSCVL,"creamy,medicinal,mint,bitter",2.75,5
+1628,Multiple Countries,0.76,BSCVL,"intense,medicinal,leather",2.0,5
+1629,Ghana,0.8,BSCL,"grits,strong vanilla,brownie",2.75,4
+1630,Madagascar,0.66,BSC,"red berry,mild molasses",3.5,3
+1631,Papua New Guinea,0.7,BSC,intense smoke,3.0,3
+1632,Tanzania,0.7,BSC,"sweet,dried fruit,gateway",3.75,3
+1633,Nicaragua,0.73,BSC,"intense spice,coarse",3.0,3
+1634,Madagascar,0.7,BS,"sweet,tart,raisin,sour end",3.25,2
+1635,Tanzania,0.7,BS,"sweet edge,dried fruit,lemon",3.5,2
+1636,Vietnam,0.7,BS,"roasted dominant,spicy,astringent",3.25,2
+1637,Dominican Republic,0.72,BSC,"sandy,cinnamon,high roast",3.0,3
+1638,Ecuador,0.72,BSC,"spicy,sweet,high roast",3.0,3
+1639,Belize,0.74,BSC,"sandy,ashy,mild fruit",2.75,3
+1640,Dominican Republic,0.72,BSC,"sandy,roast,fruit",2.75,3
+1641,Nicaragua,0.72,BSC,"grits,roast,wood",2.75,3
+1642,Panama,0.71,BSC,"fatty,bland,some spice",3.0,3
+1643,Bolivia,0.68,BSC,"rich cocoa,bread note",3.25,3
+1644,Republic of the Congo,0.7,BSC,"vegetal,honey",3.0,3
+1645,Peru,0.75,BSC,"creamy,sour banana,lemon",3.0,3
+1646,Bolivia,0.66,BSC,"creamy,melon,subtle",3.75,3
+1647,Multiple Countries,0.8,BS,"creamy,mild bitter,coffee",3.25,2
+1648,Papua New Guinea,0.68,BSC,"fatty,dates,musty",2.75,3
+1649,United States,0.6,BSCVL,"muddy,pasty,sweet,vanilla",3.0,5
+1650,United States,0.6,BSCVL,"sticky,tobacco",3.0,5
+1651,Peru,0.65,BSCL,"dry,banana,molasses",3.0,4
+1652,Peru,0.72,BSCL,"sandy,molasses,brownie",3.0,4
+1653,Ecuador,0.7,BSCL,"sandy,green,spice,nut",3.5,4
+1654,Ecuador,0.72,BSCL,"sandy,rubber,spice,floral",3.0,4
+1655,Ecuador,0.65,BSCL,"creamy,sweet,green",3.0,4
+1656,Ecuador,0.6,BSCL,"floral,rubber,vanilla,metal",2.75,4
+1658,Ecuador,0.7,BSCL,"waxy,sandy,floral",3.5,4
+1659,Peru,0.7,BSCL,"light color,complex,molasses",4.0,4
+1660,Ecuador,0.85,BSCL,"spice,mostly bitter",2.75,4
+1661,Ecuador,0.7,BSCL,"creamy,spicy,cocoa",4.0,4
+1662,Ecuador,0.7,BSCL,"creamy,green fruit,candied",3.75,4
+1663,Ecuador,0.7,BSCL,"savory,smoke",3.5,4
+1664,Ecuador,0.7,BSCL,"floral,green,tannic",3.25,4
+1665,Colombia,0.7,BSCL,"complex,balanced",4.0,4
+1666,Cuba,0.72,BSCVL,"creamy,tobacco,cocoa",3.75,5
+1667,Haiti,0.7,BSCVL,"vanilla,sweet,gateway",3.5,5
+1668,Vietnam,0.72,BSCVL,"molasses,tart,vegetal",3.25,5
+1669,Madagascar,0.78,BS,"red fruit,intense,bright",3.75,2
+1670,Trinidad and Tobago,0.7,BS,"mellow,fruit,brownie",3.75,2
+1671,Multiple Countries,0.75,BS,"intense floral,slight wood",3.5,2
+1672,Bolivia,0.72,BS,"vinegar,sour",2.75,2
+1673,Ecuador,0.75,BS,"earth,nut,black pepper",2.75,2
+1674,Vietnam,0.72,BS,"cocoa,melon,dairy",3.75,2
+1675,Tanzania,0.72,BS,"rich cocoa,dried fruit",3.5,2
+1676,Bolivia,0.7,BS,"slow,sweet,spicy",3.25,2
+1677,Trinidad and Tobago,0.7,BS*,"maple,spicy,cocoa",3.25,2
+1678,Belize,0.72,BS,"strawberry,savory",3.0,2
+1679,Guatemala,0.7,BS,"fruit,off rubber",2.75,2
+1680,Haiti,0.7,BS,"sticky,bold,nut,fig",3.5,2
+1681,Peru,0.72,BS,"grape,pungent,off sour",2.75,2
+1682,Dominican Republic,0.75,BS,"creamy,burnt rubber,off",2.75,2
+1683,Peru,0.7,BS,"intense spicy,floral",3.5,2
+1684,Fiji,0.76,BS,"intense,bitter,spicy",3.0,2
+1685,Peru,0.71,BS,"sandy,fruit,cocoa,sour",3.5,2
+1686,Belize,0.75,BS,"fig,sour,rubber",3.25,2
+1687,Madagascar,0.76,BS,"fruit,sour,roast",3.25,2
+1688,Dominican Republic,0.76,BS,"cocoa,earth,roast",3.25,2
+1689,Philippines,0.76,BS,"burnt caramel,coffee",3.0,2
+1690,Bolivia,0.76,BS,"harsh,tobacco,roast",2.75,2
+1691,Multiple Countries,0.65,BSV,"mild nut,basic cocoa",3.5,3
+1692,Dominican Republic,0.7,BS,"mild spice,grape",3.5,2
+1693,Bolivia,0.7,BS,"gritty,wood,acidic",3.0,2
+1694,Guatemala,0.7,BS,"intense,blackberry,acidic",3.5,2
+1695,Tanzania,0.7,BS,"sour,earth,roast",3.25,2
+1696,Colombia,0.75,BSC,"nut,roast,high astringent",3.0,3
+1697,Guatemala,0.75,BSC,"fatty,wood,poor aftertaste",2.75,3
+1698,Dominican Republic,0.75,BSC,"rubber,butter,soil",2.75,3
+1699,Peru,0.7,BSCV,"gritty,earth,melon",2.75,4
+1700,Peru,0.55,BSCV,"gritty,sweet,off",2.5,4
+1701,Madagascar,0.7,BSC,"mild tart,wine,red fruit,long",4.0,3
+1702,Madagascar,0.75,BSC,"simple red berry,rich,long",4.0,3
+1703,Madagascar,0.67,BSC,"creamy,fruit forward,rich",3.5,3
+1704,Venezuela,0.7,BSC,"earth,nut",3.5,3
+1705,Multiple Countries,0.7,BSC,"smooth,red berry,cocoa",3.75,3
+1706,Peru,0.67,BSC,"creamy,cocoa,grape",4.0,3
+1707,Madagascar,0.64,BS*,"coarse,sweet,tart,earth",2.75,2
+1708,Madagascar,0.73,BS*,"sticky,mild citrus,earth",2.25,2
+1709,Dominican Republic,0.82,BSC,"coarse,earth,sweet",3.0,3
+1710,Fiji,0.75,BS*C,"mild smoke,black licorice",3.0,3
+1711,Peru,0.7,BSCL,"off aroma,anise,dried fruit",3.25,4
+1712,Mexico,0.72,BSCVL,"mild tart,long,rich",4.0,5
+1713,Venezuela,0.72,BSCVL,"rich cocoa,marshmallow",3.75,5
+1714,Indonesia,0.72,BSCVL,"red fruit,smoke,sour",3.0,5
+1715,Multiple Countries,0.7,BSCVL,"rich cocoa,tart citrus",4.0,5
+1716,Madagascar,0.72,BSCVL,"tang,floral,spicy,cocoa",4.0,5
+1717,Ecuador,0.72,BSCVL,"creamy,cocoa,grass",3.75,5
+1718,Multiple Countries,0.85,BSCVL,"cinnamon,bitter aftertaste",3.5,5
+1719,Brazil,0.72,BSCVL,"smoke,floral,mild",3.0,5
+1720,Mexico,0.72,BSCVL,"bland,subtle dairy,burn",3.0,5
+1721,Cuba,0.78,BSCVL,"chunky,rich,spicy",3.75,5
+1722,Trinidad and Tobago,0.75,BSCVL,"berry note , sweet edge",3.25,5
+1723,Venezuela,0.75,BSCVL,"strong vanilla,nut,spice",3.0,5
+1724,Peru,0.85,BSCVL,"bitter,coffee,cocoa",3.0,5
+1725,Cameroon,0.7,BSCVL,"mild fruit,wood",3.25,5
+1726,Madagascar,0.76,BSCL,"powdery,roast,off flavor",3.0,4
+1727,Cameroon,0.7,BSCL,"rich cocoa,off flavor",3.0,4
+1728,Tanzania,0.7,BSC,"sweet,cream,cherry,rich",3.5,3
+1729,India,0.73,BSC,"creamy,fruit,mocha",3.5,3
+1730,Vietnam,0.7,BSC,"swiss miss,pistachio,rich",3.0,3
+1731,Honduras,0.8,BSVL,"banana,earth end",2.5,4
+1732,Ecuador,0.73,BS,"intense,floral,leather",3.5,2
+1733,Madagascar,0.73,BS,"intense,dried fruit,roast",3.25,2
+1734,Ecuador,0.73,BS,"tobacco,wood,rum",3.25,2
+1735,Fiji,0.73,BS,"intense smoke,medicinal",2.5,2
+1736,Nicaragua,0.8,BS,"chunky,dairy,nut,rich",3.25,2
+1737,Nicaragua,0.8,BS,"dry,sandy,earth,leather",2.75,2
+1738,Nicaragua,0.8,BSC,"metal,earth,pungent",2.75,3
+1739,Nicaragua,0.8,BSC,"metal,molasses,roast",2.75,3
+1740,Nicaragua,0.62,BSC,"coarse,earth,metal,sweet",2.5,3
+1741,Bolivia,0.7,BSC,"sandy,dried fruit,earth",3.0,3
+1742,Tanzania,0.7,BSC,"raisin,grape,tart",3.25,3
+1743,Dominican Republic,0.7,BSC,"slight bitter,earth,fruit",3.0,3
+1744,Peru,0.82,BSC,"dry,red berry,off note",2.75,3
+1745,Dominican Republic,0.76,BSC,"molasses,banana,chemical",2.5,3
+1746,Costa Rica,0.82,BS,"bright red fruit,smoke,powerful",3.75,2
+1747,Costa Rica,0.7,BS,"grass,chewy,nibs add bitter",3.5,2
+1748,Brazil,0.7,BS,"mint,candied",3.5,2
+1749,Costa Rica,0.7,BS,"fudge,mild smoke",3.0,2
+1750,Peru,0.7,BS,"grass,earth",2.75,2
+1751,Venezuela,0.7,BS,"mild nut,cocoa,spice",3.75,2
+1752,Dominican Republic,0.7,BS,"dense,rich,nuanced",3.75,2
+1753,Colombia,0.7,BS,"marshmallow,distinct",4.0,2
+1754,Uganda,0.75,BS,"light cocoa,dairy,faint cinnamon",3.75,2
+1755,Jamaica,0.75,BSCL,"creamy,spicy",3.75,4
+1756,Ecuador,0.8,BSCL,"vegetal,fruit,smoke",3.75,4
+1757,Multiple Countries,0.75,BSCL,"tart,fruit,cocoa",3.5,4
+1758,Brazil,0.75,BSCL,"creamy,fatty,burnt",3.0,4
+1759,Vanuatu,0.75,BSCL,"smoke dominant,mild fruit",3.0,4
+1760,Cuba,0.75,BSCL,"earth,tobacco,mushroom",3.0,4
+1761,Multiple Countries,0.75,BSCL,"sandy,roast,cocoa",3.0,4
+1762,Sao Tome and Principe,0.75,BSCL,"large nibs,spicy,cocoa",4.0,4
+1763,Brazil,0.75,BSCL,"complex,herb,sour",3.5,4
+1764,Madagascar,1.0,BC,"fatty,mild fruit,bitter,smoke",3.0,2
+1765,Dominican Republic,0.75,BSCL,"sandy,sour",2.0,4
+1766,Venezuela,0.75,BSCL,"creamy,burnt,ashy,lemon",2.0,4
+1767,Venezuela,0.75,BSCL,"nut,red berry,rich",3.5,4
+1768,Venezuela,0.75,BSCL,"burnt nut,subtle fruit",3.25,4
+1769,Peru,0.75,BSC,"subdued,floral,nut,fatty",3.25,3
+1770,Sao Tome and Principe,0.75,BSCL,"deep cocoa,fatty,mild ashy",3.5,4
+1771,Tanzania,0.75,BSCL,"spicy,cocoa",3.5,4
+1772,Ecuador,0.75,BSCL,"dried fruit,floral",3.5,4
+1773,Trinidad and Tobago,0.75,BSCL,"tobacco,deep cocoa,slight burnt",3.25,4
+1774,Ghana,0.75,BSCL,"rich cocoa,fatty,roast",3.25,4
+1775,Papua New Guinea,0.75,BSCL,"complex,smoke,intense,ham",3.0,4
+1776,Indonesia,0.75,BSCL,"fruit,wood,ashy,fatty",3.0,4
+1777,Venezuela,0.75,BSCL,"roast,black licorice,rubber",3.0,4
+1778,Madagascar,0.75,BSCL,"high acidity,roast,sour,chalky",3.0,4
+1779,Colombia,0.75,BSCL,"sandy,coffee,sweet,roast",3.0,4
+1780,Tanzania,0.75,BS*,"sour palm,rich cocoa,fruit",3.25,2
+1781,Peru,0.75,BS*,"molasses,coffee,cocoa",3.25,2
+1782,Vietnam,0.7,BS,"fruit,tart,fertilizer",2.75,2
+1783,Madagascar,0.72,BSC,"long,mellow,butter",3.25,3
+1784,Ecuador,0.75,BSC,"perfume,roasted caramel",3.0,3
+1785,Venezuela,0.75,BSC,"nut,fuel,intense",2.75,3
+1786,Ecuador,0.85,BSC,"floral,slight burnt,intense",2.75,3
+1787,Grenada,0.7,BSC,"dark berry,mild floral",3.5,3
+1788,Madagascar,0.74,BSC,"dairy,butterscotch,caramel",3.5,3
+1789,Honduras,0.8,BSC,"chunky,earth,rubber",2.75,3
+1790,Ecuador,0.77,BSC,"floral,grainy,deep cocoa",3.5,3
+1791,Jamaica,0.75,BS,"sticky,mild,hay,honey",3.75,2
+1792,Solomon Islands,0.72,BSC,dominant savory,3.25,3
+1793,Venezuela,0.73,BSCL,"fatty,vanilla,orange",2.75,4
+1794,Dominican Republic,0.65,BSCL,"peanut,soy,sunflower",3.75,4
+1795,Vietnam,0.75,BSCL,"intense,fig,roast,citrus",3.5,4
+1796,Philippines,0.66,BSCL,"spice,sunflower",3.5,4
+1797,Ecuador,0.73,BSCL,"few grits,strong floral",3.25,4
+1798,Papua New Guinea,0.75,BSCL,intense smoke,3.25,4
+1799,Brazil,0.65,BSC,"muted,banana,hot cocoa",3.25,3
+1800,Brazil,0.6,BSC,"sweet,intense banana",3.0,3
+1801,Brazil,0.85,BSC,"mild bitter,banana,citrus",3.5,3
+1802,Brazil,0.75,BSC,"sticky,intense,roast,fruit",3.25,3
+1803,Brazil,0.8,BSC,"tannic,fruit,cocoa",3.25,3
+1804,Brazil,0.55,BSC,"creamy,too sweet,sour",2.75,3
+1805,Peru,0.7,BSC,"pungent,grape",3.0,3
+1806,Peru,0.7,BSC,"bold,nut,floral,wine",3.75,3
+1807,Peru,0.7,BSC,"grape,honey",4.0,3
+1808,Peru,0.7,BSC,"intense plum,harsh wood",3.5,3
+1809,Mexico,0.74,BSC,"waxy,gritty,spicy,ham",3.0,3
+1810,Mexico,0.7,BSC,"gritty,waxy,leather",2.75,3
+1811,Dominican Republic,0.85,BSC,"creamy,pasty,bitter,cocoa",3.5,3
+1812,Madagascar,0.75,BSC,"gritty,sticky,candied",3.25,3
+1813,Republic of the Congo,0.75,BSC,"refined,honey,rubber",2.75,3
+1814,Peru,0.7,BSC,"pungent,green,citrus",3.0,3
+1815,Haiti,0.7,BSC,basic cocoa,3.5,3
+1816,Haiti,0.7,BSC,green,3.25,3
+1817,Guatemala,0.7,BSCVL,"easter candy,burnt",2.75,5
+1819,Peru,0.73,BS,"dried fruit,raisin,nut",3.5,2
+1820,Peru,0.8,BS,"fruit,melon",3.25,2
+1821,Peru,0.7,BS,"oily,intense vinegar",2.5,2
+1822,Peru,0.75,BSC,"fatty,cocoa",3.25,3
+1823,Tanzania,0.72,BSC,"creamy,complex,maple",3.75,3
+1824,Peru,0.72,BSC,dominant spice,3.75,3
+1825,Ecuador,0.72,BSC,"floral,malt,high astringent",3.5,3
+1826,Dominican Republic,0.72,BSC,"floral,roasted cacao,dirt",3.5,3
+1827,Nicaragua,0.72,BSC,"grass,earth,roast,dirt",3.5,3
+1829,Ecuador,0.75,BSCL,"vanilla,dark roast,spicy",3.75,4
+1830,Ecuador,0.67,BSCL,"creamy,caramel,dairy",3.5,4
+1831,Ecuador,0.75,BSCL,"cinnamon,hazelnut,roast",3.0,4
+1832,Ecuador,0.75,BSCL,"strong rubber,off chemical",2.5,4
+1833,Ecuador,0.75,BSCL,"strong spice,earth green",3.25,4
+1834,Costa Rica,0.75,BS,"dark berry,wood,astringent",3.5,2
+1835,Madagascar,0.75,BS,"dark berry,tropical,nut",4.0,2
+1836,Trinidad and Tobago,0.75,BS,"orange,heavy roast",3.5,2
+1837,Ecuador,0.75,BS,"dried fruit,nut,bitter,roast",3.25,2
+1838,Belize,0.75,BS,"thick,slow,pure",3.75,2
+1839,Peru,0.75,BS,"intense,roast,spice",3.0,2
+1840,Ecuador,0.85,BS,"mild bitter,wood,bourbon",3.5,2
+1841,Multiple Countries,0.7,BS,"sticky,wood",3.5,2
+1842,Ecuador,0.75,BS,"floral,bourbon,balanced",3.75,2
+1843,Mexico,0.75,BSC,"smooth,coffee,rich cocoa",3.75,3
+1844,Nicaragua,0.7,BS,"complex,honey,fruit,nut",3.5,2
+1845,Trinidad and Tobago,0.8,BS,"rich brownie,dried fruit",3.5,2
+1846,Madagascar,0.75,BSC,"tart fruit,roast",3.5,3
+1847,Tanzania,0.72,BSC,"muted,heavy roast",3.0,3
+1848,Fiji,0.7,BSC,"fatty,rubber,nut",2.5,3
+1849,Peru,0.7,BSC,"fatty,rubber,off",2.5,3
+1850,Costa Rica,0.7,BS,"dried fruit,intense",3.25,2
+1851,Costa Rica,0.7,BS,"fatty,honey,slight sour",3.25,2
+1852,Costa Rica,0.7,BS,"roast,coffee,intense",3.25,2
+1853,Madagascar,0.75,BSCVL,"rich cocoa,nut",3.25,5
+1854,Madagascar,0.68,BSCL,"basic cocoa,large nibs",3.25,4
+1856,Madagascar,0.7,BS,"raisin,sour,roast",3.0,2
+1857,Trinidad and Tobago,0.7,BS,"dry,honey,roast",3.0,2
+1858,Dominican Republic,0.7,BS,"nut,earth,mild off note",2.75,2
+1859,Jamaica,0.7,BS,"sandy,heavy roast,wood",2.75,2
+1860,Venezuela,0.7,BS,"mint,sweet spice",3.5,2
+1861,Peru,0.75,BS,"smooth,intense,fruit,complex",3.75,2
+1862,Bolivia,0.75,BS,"rich brownie,roast,sour",3.0,2
+1863,Ecuador,0.75,BS,"floral,bourbon,mocha",3.75,2
+1864,Bolivia,0.75,BS,"smooth,banana,tart,roast",4.0,2
+1865,Jamaica,0.75,BS,"intense,dark berry,spice",3.75,2
+1866,Madagascar,0.7,BS,"creamy,heavy roast,citrus",3.5,2
+1867,Dominican Republic,0.7,BS,"sticky,earth,smoke",3.5,2
+1868,Venezuela,0.8,BS,"red fruit,intense,earth",3.75,2
+1869,Venezuela,0.7,BS,"deep,rich,nut,roast",3.75,2
+1870,Bolivia,0.75,BS,"roast,dried fruit,sour",3.25,2
+1871,Honduras,0.75,BS,"robust,tart,roast",3.75,2
+1872,Venezuela,0.73,BSC,"fatty,roast,coffee",3.5,3
+1873,Venezuela,0.7,BSC,"uneven melt,cashew",3.5,3
+1874,Sao Tome and Principe,0.77,BSC,"smoke,nut,fatty residue",2.75,3
+1875,Venezuela,0.71,BSC,"intense,burnt,chemical",2.5,3
+1876,Venezuela,0.84,BSC,"fatty,chemical,roast",2.5,3
+1877,Madagascar,0.72,BSC,"butter,sour tang,off note",2.5,3
+1878,Venezuela,0.76,BSC,"fatty,burnt,nut,vegetal",2.25,3
+1879,Venezuela,0.73,BSC,"nut,chocolate,mellow",3.75,3
+1880,Honduras,0.72,BS*C,"off note,vegetal,nibs",2.75,3
+1881,Nicaragua,0.7,BSC,"complex,coarse,astringent",3.5,3
+1882,Haiti,0.75,BSC,"cocoa base,spice",3.0,3
+1888,Multiple Countries,0.69,BS*CV,"grass,maple",3.25,4
+1889,Multiple Countries,0.83,BS*CV,"grass,strong bitter",2.75,4
+1890,Brazil,0.7,BSCL,"creamy,vanilla,rich",3.5,4
+1891,Ecuador,0.7,BSCL,"nut,spicy,floral",3.5,4
+1892,Venezuela,0.7,BSCL,"nut,basic cocoa",3.5,4
+1893,Ecuador,0.7,BSCL,"floral,spice",3.5,4
+1894,Ecuador,0.7,BSCL,"few grits,basic,gateway",3.25,4
+1895,Colombia,0.7,BSCVL,"rustic,cherry,marshmallow",3.75,5
+1896,Colombia,0.65,BSCVL,"sweet,cherry,marshmallow",3.0,5
+1897,Colombia,0.53,BSCVL,"too sweet,like candy",2.0,5
+1898,Colombia,0.7,BSCVL,"sweet,marshmallow",3.0,5
+1899,Colombia,0.75,BSL,"roast,rich cocoa,marshmallow",2.75,3
+1900,Sao Tome and Principe,0.7,BSCVL,"perfume,vanilla",2.75,5
+1901,Multiple Countries,0.7,BSCVL,"cherry,mild bitter",3.5,5
+1902,Multiple Countries,0.62,BSCVL,"tobacco,sweet,dairy",3.0,5
+1903,Multiple Countries,0.82,BSCVL,"dry,bitter,poor aftertaste",2.0,5
+1904,Multiple Countries,0.68,BSCVL,"fruit,smoke,burnt",2.0,5
+1905,Jamaica,0.7,BSCVL,"fresh nibs,chocolate base off",2.0,5
+1906,Venezuela,0.75,BSCVL,"complex,strawberry,tart",3.75,5
+1907,Multiple Countries,0.72,BSCVL,strong smoke tobacco,3.0,5
+1908,Multiple Countries,0.62,BSCVL,"sweet,base cocoa",3.0,5
+1909,Multiple Countries,0.75,BSCVL,"smooth,complex,cocoa base",3.0,5
+1910,Multiple Countries,0.72,BSCVL,"grass,black pepper,smoke",3.0,5
+1911,Ghana,0.65,BSCVL,"simple,delicate cocoa,long",4.0,5
+1912,Brazil,0.68,BSCVL,"smooth,tart,earth",3.75,5
+1913,Vietnam,0.72,BSCVL,"creamy,grass,banana,tart",3.75,5
+1914,Madagascar,0.65,BSCVL,"clingy,subtle,tang,citrus",3.75,5
+1915,Grenada,0.68,BSCVL,"smooth,grass,mint",3.5,5
+1916,Papua New Guinea,0.68,BSCVL,"cherry,wine,rich,smoke",3.75,5
+1917,Peru,0.78,BSCL,"banana,pear,spice,cheesy",4.0,4
+1918,Dominican Republic,0.7,BS,"rustic,vegetal,earth",2.75,2
+1919,Grenada,0.7,BS,"off,sweet,orange,rubber",2.75,2
+1920,Tanzania,0.7,BS,"sticky,cherry,cocoa",3.25,2
+1921,Dominican Republic,0.7,BS,"earth,mild fruit,sticky",3.0,2
+1922,Honduras,0.7,BS,"dry,earth,surface mark",2.75,2
+1923,Uganda,0.7,BS,"cocoa,roast,sticky",3.5,2
+1924,Fiji,0.7,BS,"sharp,raw,metal",2.75,2
+1925,Belize,0.7,BSC,full cocoa flavor,3.5,3
+1926,Guatemala,0.7,BSC,"spicy,rich cocoa,sweet",3.0,3
+1927,Colombia,0.7,BSC,"black pepper,astringent",3.0,3
+1928,Belize,0.72,BS,"fruit,blueberry",3.25,2
+1929,Ecuador,0.75,BS,"coffee,nut",3.0,2
+1930,Papua New Guinea,0.73,BS,"chewy,smoke,fruit,cocoa",3.5,2
+1931,Dominican Republic,0.74,BS,"grape,tang,cocoa",3.5,2
+1932,Jamaica,0.72,BS,"sticky,dried fruit,smoke",3.25,2
+1933,Venezuela,0.77,BS,"smoked ham,tang,berry",2.75,2
+1934,United States,0.73,BSCV,"perfume,floral,chemical",2.5,4
+1935,United States,0.73,BSCV,"sticky,earth,medicinal",2.0,4
+1936,Peru,0.75,BSC,"strong spice,perfume,roast",3.5,3
+1937,Peru,0.7,BSC,"earth,roast,vegetal",3.25,3
+1938,Costa Rica,0.7,BSC,"gritty,bold,black pepper",3.5,3
+1939,Costa Rica,0.82,BSC,"gritty,fatty,coffee",3.25,3
+1941,Sao Tome and Principe,0.65,BSCSa,"nut,salt",3.25,4
+1942,Brazil,0.6,BSCSa,"fatty,sweet,salt",3.25,4
+1943,Belize,0.67,BSCSa,"fatty,cocoa,spicy",3.0,4
+1944,Colombia,0.68,BSCSa,"fatty,salt,caramel",3.0,4
+1945,Madagascar,0.67,BSC,"tart,sweet edge",3.75,3
+1946,Madagascar,0.73,BSC,"intense fruit,mild sour",3.75,3
+1947,Ecuador,0.73,BSC,"intense,rich,burnt,licorice",3.75,3
+1948,Guatemala,0.73,BS*,"waxy,maple,flat",3.25,2
+1949,Haiti,0.73,BS,"oily,medium roasted cocoa",3.25,2
+1950,Madagascar,1.0,B,"creamy,tart,bitter",3.0,1
+1951,Ecuador,1.0,B,"floral,bourbon,bitter",3.0,1
+1952,Guatemala,0.73,BS,"waxy,earth,cocoa,roast",3.0,2
+1953,Ecuador,0.73,BS,"rich cocoa,spicy",3.75,2
+1954,Bolivia,0.73,BS,"sticky,raisin,fudge",3.5,2
+1955,Tanzania,0.73,BS,"basic cocoa,gateway",3.5,2
+1956,Peru,0.73,BS,"caramel,anise,dried fruit",3.75,2
+1957,Nicaragua,0.72,BSC,"mild,nut,vanilla,cocoa",3.0,3
+1958,Ghana,0.7,BSCV,"sweet,vanilla,cocoa,mold",2.75,4
+1959,Ecuador,0.72,BSC,"creamy,pistachio,floral",4.0,3
+1960,Tanzania,0.67,BSC,"bold cherry,rich cocoa",3.75,3
+1961,Trinidad and Tobago,0.7,BSC,"cigar,tobacco,grass,spice",3.75,3
+1962,Venezuela,0.7,BSC,"mild cacao,fruit note",3.75,3
+1963,Madagascar,0.7,BSC,"few grits,bold,dark berry",3.5,3
+1964,Papua New Guinea,0.65,BSC,"smoke,tart,astringent",3.5,3
+1965,Madagascar,0.65,BSC,"few grits,sweet,orange",3.25,3
+1966,Peru,0.67,BSC,"light brown,grits,floral",3.0,3
+1967,Bolivia,0.72,BSC,"floral,intense,pungent",2.75,3
+1968,Ecuador,0.7,BSC,"light color,creamy,peanut",4.0,3
+1969,Venezuela,0.7,BSC,"creamy,fruit,cocoa",3.75,3
+1970,Belize,0.7,BSC,"apple,mild cherry",3.75,3
+1971,Australia,0.67,BSC,"delicate,smooth,dairy",3.75,3
+1972,Guatemala,0.7,BSC,"gummy,fatty,earth",3.25,3
+1973,Vietnam,0.7,BSC,"creamy,molasses,off note",3.0,3
+1974,Dominican Republic,0.7,BSC,"cherry,rich chocolate",3.5,3
+1975,Haiti,0.7,BSC,"complex,earth,melon",3.5,3
+1976,Ecuador,0.68,BSC,"fudge then spicy,vanilla",3.25,3
+1977,Madagascar,0.68,BSC,"mild cocoa,fruit",3.0,3
+1978,Ghana,0.67,BSC,"perfume,strong chemical",1.5,3
+1979,Indonesia,0.66,BS*C,"nut,fruit,cocoa",3.25,3
+1980,India,0.7,BSC,"grass,ham",2.75,3
+1981,Madagascar,0.72,BS,"tang,sour,intense",3.0,2
+1982,Ecuador,0.7,BS,"intense,simple,floral,earth",3.5,2
+1983,Dominican Republic,0.85,BS,"sticky,ham,bitter",2.75,2
+1984,Peru,0.68,BS,"sticky,sandy,pungent",2.75,2
+1985,Philippines,0.7,BSC,"intense,dirt,floral,medicinal",2.5,3
+1986,Solomon Islands,0.7,BS,"sweet,roast,spicy",3.25,2
+1987,Solomon Islands,0.75,BS,"spicy,roasted,fresh nibs",3.25,2
+1988,Multiple Countries,0.7,BSC,"creamy,nut,cocoa",3.5,3
+1989,Bolivia,0.7,BS,"intense,leather,cocoa",3.25,2
+1990,Peru,0.7,BSC,"molasses,grape,sour",3.25,3
+1991,Madagascar,0.7,BS,"dry,molasses,sour",3.0,2
+1992,Venezuela,0.7,BS,"dairy,cheesy,molasses",3.0,2
+1993,Uganda,0.7,BSC,"molasses,licorice,muted",3.0,3
+1994,Tanzania,0.7,BSC,"sticky,strong molasses",3.25,3
+1995,India,0.7,BSC,"molasses undertone,tang",3.25,3
+1996,Madagascar,0.7,BSC,"subtle red berry,complex",3.75,3
+1997,Venezuela,0.7,BSC,black tea,3.75,3
+1998,Ghana,0.7,BSC,"earth,wood,vegetal",3.5,3
+1999,Papua New Guinea,0.7,BSC,"smoke,mushroom,woodsy",3.5,3
+2000,Dominican Republic,0.7,BSC,"sticky,few grits,mild fruit,sour",3.0,3
+2001,Dominican Republic,0.7,BSC,"slow to develop,nut",3.0,3
+2002,Multiple Countries,0.7,BSC,"complex,nut,dried fruit,earth",3.75,3
+2003,Peru,0.64,BSC,"complex,spice,caramel,cocoa",4.0,3
+2004,Multiple Countries,0.7,BSC,"strawberry,cocoa,nut",4.0,3
+2005,Dominican Republic,0.7,BSC,"dried fruit,tart",3.75,3
+2006,Bolivia,0.7,BSC,"earth,mild tannic,wood",3.5,3
+2007,Venezuela,0.7,BSC,"strawberry,green mint",3.5,3
+2008,Grenada,0.7,BSC,"super temper,astringent,burn",2.75,3
+2009,Multiple Countries,0.7,BSC,"creamy,raisin,lemon",4.0,3
+2010,Multiple Countries,0.7,BSC,"creamy,complex,peanut",4.0,3
+2011,United States,0.7,BSC,"cranberry,cocoa",3.75,3
+2012,Venezuela,0.7,BSC,"intense,rich burnt caramel",3.75,3
+2013,Guatemala,0.7,BSC,"sandy,earth,tang wine",3.5,3
+2014,Multiple Countries,0.7,BSC,"smoke,tobacco,black pepper",3.5,3
+2015,Papua New Guinea,0.85,BSC,"mild smoke,fruit,mild burnt",3.5,3
+2016,Haiti,0.7,BSC,"uneven,grass,roast",3.25,3
+2017,Multiple Countries,0.88,BSC,"pronounced berry,mild smoke",4.0,3
+2018,Venezuela,0.7,BSC,"delicate,nut,cocoa,dairy",4.0,3
+2019,Multiple Countries,0.67,BSC,"roasted nut,burnt brownie",4.0,3
+2020,Jamaica,0.7,BSC,"floral,berry,clove",4.0,3
+2021,Dominican Republic,0.77,BSC,"smoke,burnt caramel,citrus",3.75,3
+2022,Trinidad and Tobago,0.7,BSC,"creamy,brownie mix,roast",3.75,3
+2023,Venezuela,0.7,BSC,"nut,chocolate ice cream",3.75,3
+2024,Indonesia,0.7,BSC,"creamy,smoke,some fruit",3.25,3
+2025,Multiple Countries,0.7,BSC,"grass,dairy,mild fatty",3.25,3
+2026,Venezuela,0.7,BSC,"creamy,nut,roast",3.25,3
+2027,Peru,0.7,BSC,"creamy,medicinal,mild fruit",2.75,3
+2028,Peru,0.7,BSC,"creamy,sour orange",3.75,3
+2029,Vanuatu,0.7,BSC,"creamy,smoke,rich cocoa",3.75,3
+2030,Nicaragua,0.7,BSC,"basic chocolate,accessible",3.5,3
+2031,Ecuador,0.8,BSC,"robust,nut,brownie",3.5,3
+2032,Nicaragua,0.7,BSC,"spicy,woodsy",3.25,3
+2033,Multiple Countries,0.7,BSC,"tart,mild sour",3.25,3
+2034,Venezuela,0.75,BSC,"balanced,nut,strawberry",4.0,3
+2035,Venezuela,0.7,BSC,"roasted nut,dried fruit",3.5,3
+2036,Vietnam,0.7,BSC,"creamy,honey,blackberry",4.0,3
+2037,Nicaragua,0.7,BSC,evolves black pepper to citrus,3.75,3
+2038,Multiple Countries,0.75,BSC,"banana,nut",3.75,3
+2039,Dominican Republic,0.62,BSC,"creamy,sweet,deep chocolate",3.5,3
+2040,Madagascar,0.7,BSC,robust dark tropical fruit,3.5,3
+2041,Brazil,0.7,BSC,"creamy,diluted,mild chocolate",3.5,3
+2042,Ecuador,0.7,BSC,"nut,banana,harsh end",3.25,3
+2043,Colombia,0.7,BSC,"creamy,honey,marshmallow",4.0,3
+2044,Fiji,0.7,BSC,"creamy,roast,wood",3.25,3
+2045,Madagascar,0.7,BSC,"creamy,acidic,balanced",4.0,3
+2046,Venezuela,0.7,BSC,"nut,cocoa",4.0,3
+2047,Haiti,0.7,BSC,"sweet edge,lemon,muted",3.0,3
+2048,United States,0.7,BS,"intense,tannic,chocolate,earth",3.5,2
+2049,Nicaragua,0.7,BS,"earth,dried fruit,complex",3.25,2
+2050,Madagascar,0.7,BS,"tart,sour,basic",3.5,2
+2051,Venezuela,0.75,BS,"dry,earth,roast",3.5,2
+2052,Tanzania,0.8,BS,"sticky,mild fruit,brownie",3.5,2
+2053,Dominican Republic,0.7,BS,"few grits,sweet,cocoa",3.25,2
+2054,Ecuador,0.75,BS,"dry,floral,earth",3.25,2
+2055,Papua New Guinea,0.77,BS,"sandy,smoke,fruit,sour",3.25,2
+2056,Dominican Republic,0.75,BSCV,"oily,floral",3.25,4
+2057,Dominican Republic,0.7,BSCV,"oily,floral,dairy",3.0,4
+2058,Dominican Republic,0.8,BSCV,"fatty,muted strawberry",3.0,4
+2059,Vanuatu,0.72,BSC,"bread,sour milk,fatty",2.75,3
+2060,Ecuador,0.7,BSC,"floral,sandy",3.75,3
+2061,Madagascar,0.7,BSC,"powdery,cherry,astringent",3.75,3
+2062,Dominican Republic,0.7,BSC,"spicy,chocolate",3.5,3
+2063,Dominican Republic,0.7,BSC,"sandy,robust,grape,malt",3.75,3
+2064,Ecuador,0.7,BSC,"floral,astringent",3.5,3
+2065,Peru,0.7,BSC,"floral,earth,burnt rubber",2.75,3
+2066,Bolivia,0.7,BSCL,"fatty,mild fruit,off note",3.0,4
+2067,Dominican Republic,0.7,BSL,"unrefined,sweet,mild coffee",3.0,3
+2068,Dominican Republic,0.84,BSL,"gritty,intense coffee,metal",2.25,3
+2069,Ecuador,0.7,BS*CV,"coconut,mild vanilla",3.0,4
+2070,Dominican Republic,0.7,BS*CV,"coconut,cocoa,few grits",3.0,4
+2071,Guatemala,0.7,BS*CV,"dried fruit,coconut,few grits",3.0,4
+2072,Nicaragua,0.7,BS*CV,"brownie,few grits,sandy",3.0,4
+2073,Madagascar,0.7,BS*CV,"red fruit,coconut",3.0,4
+2074,India,0.72,BSCV,"peanut butter,vanilla,artificial",3.25,4
+2075,Brazil,0.68,BSCV,"creamy,vanilla,mold",2.75,4
+2076,Ecuador,0.84,BSC,"floral,hint of fruit",3.5,3
+2077,Ecuador,0.7,BSC,"oily surface,floral,earth",3.5,3
+2078,Bolivia,0.7,BSC,"fatty,rubber,off note",2.5,3
+2079,Philippines,0.75,BSCV,"bland,earth",2.75,4
+2080,Philippines,0.65,BSCV,"vanilla,sweet",2.5,4
+2081,Philippines,0.7,BSCV,"dry,sweet,vanilla",2.5,4
+2082,Belize,0.78,BS,"intense,rich,dark berry",3.25,2
+2083,Madagascar,0.67,BS,"molasses,sour,astringent",2.75,2
+2084,Peru,0.71,BSCVL,"powdery,vanilla,earth",3.0,5
+2085,Peru,0.61,BSCVL,"sandy,sweet,vanilla",2.5,5
+2086,Venezuela,0.6,BSC,"sticky,sweet,nut,roast",3.0,3
+2087,Venezuela,0.7,BSC,"sticky,nut,roast,off note",2.75,3
+2088,Sri Lanka,0.7,BS,"ham,sour,intense",2.75,2
+2089,Tanzania,0.74,BS,"fruit,burnt,harsh",2.75,2
+2090,Venezuela,0.75,BSCVL,"acidic,cocoa,dried fruit",3.25,5
+2091,Belize,0.7,BSCVL,"butter,cheesy",3.0,5
+2092,Brazil,0.7,BSCVL,"cardboard,cheesy",3.0,5
+2093,Tanzania,0.75,BSC,"fatty,sour,off note",2.75,3
+2094,Peru,0.7,BSCVL,"pungent,molasses,sour",2.5,5
+2095,Peru,0.68,BSC,"burnt black licorice,intense",3.25,3
+2096,Papua New Guinea,0.73,BSC,"savory lemon,ham",3.25,3
+2097,Mexico,0.74,BSC,"dried fig,earth,dirt",3.0,3
+2098,Venezuela,0.7,BSC,"rustic,sugar dominant",3.0,3
+2099,Peru,0.7,BSC,"sweet,spicy",3.75,3
+2100,Dominican Republic,0.7,BSC,"rustic,large unground pieces",3.25,3
+2101,Madagascar,0.7,BSC,"rustic,bright fruit",3.25,3
+2102,Madagascar,0.7,BSC,"light color,sandy,fruit",3.5,3
+2103,Madagascar,0.7,BSC,"dark color,sandy,fruit",3.5,3
+2104,Nicaragua,0.7,BSC,"sour milk,hot cocoa",3.25,3
+2105,Cuba,0.7,BSC,"sandy,banana",3.75,3
+2106,Venezuela,0.7,BSC,"sandy,earth,spice,nut",3.5,3
+2107,Ecuador,0.7,BSC,"coarse,spicy cinnamon",3.75,3
+2108,Brazil,0.7,BSC,"rustic,earth,tea",3.5,3
+2109,Ecuador,0.7,BSC,"sweet,brownie,sour",3.25,3
+2110,Cuba,0.88,BSC,"rustic,spicy,earth",3.25,3
+2111,Madagascar,0.7,BSC,"sour orange,fatty",3.25,3
+2112,Vietnam,0.7,BSC,"smoke,mild citrus",3.25,3
+2113,Peru,0.7,BSCV,"vanilla,fatty,vegetal,mint",3.0,4
+2114,Costa Rica,0.7,BSCV,"licorice,dried fruit,burnt fuel",2.75,4
+2115,Dominican Republic,0.7,BSCV,"oily,cardboard,sour",2.75,4
+2116,Mexico,0.7,BSCV,"vanilla,fuel,earth",2.5,4
+2117,Papua New Guinea,0.62,BSCVL,"creamy,smoke,ham",3.25,5
+2118,Vietnam,0.6,BSCVL,"vanilla,butter,caramel",3.25,5
+2119,Colombia,0.7,BSCVL,"flat,smoke,marshmallow",3.0,5
+2120,Trinidad and Tobago,0.77,BSCL,"intense,grass,smoke",2.75,4
+2121,Vietnam,0.75,BSC,"intense cocoa,fatty,sticky",3.0,3
+2122,Vietnam,0.7,BSC,"cocoa,sweet,fatty,cardboard",2.75,3
+2123,Suriname,0.7,BS,"earth,floral,dry",3.25,2
+2124,Peru,0.75,BSC,fig,4.0,3
+2125,Peru,0.75,BSC,"blackberry,dirt,high roast",3.25,3
+2126,Venezuela,0.75,BSCV,"vanilla,fatty",3.0,4
+2127,Madagascar,0.75,BSCV,"berry,spice,smoke",3.0,4
+2128,Mexico,0.7,BSC,"nut,fruit,sour,floral",3.25,3
+2129,Nicaragua,0.72,BSC,"nut,off,roast,fatty",3.0,3
+2130,Dominican Republic,0.7,BSC,"sandy,sour banana,sweet",3.0,3
+2131,Mexico,0.75,BSC,"rustic,sweet,earth",2.75,3
+2132,Bolivia,0.87,BSC,"grainy,blueberry,bitter",3.25,3
+2133,Belize,0.68,BSC,"coarse,watery,sweet",3.0,3
+2134,Madagascar,0.7,BSCVL,"dry,red berry,off note",2.75,5
+2135,Ghana,0.7,BSCVL,"gritty,sweet,swiss miss,vanilla",2.5,5
+2136,Peru,0.7,BSCVL,"tang,off,musty,sour",2.5,5
+2137,Peru,0.7,BSCVL,"dry,musty,flat",2.5,5
+2138,Multiple Countries,0.68,BSCVL,"nut,like candy",3.0,5
+2139,Multiple Countries,0.6,BSCVL,"tea,sweet,astringent",2.75,5
+2141,Multiple Countries,0.62,BSCVL,"strong vanilla,sweet,fatty",2.0,5
+2142,Dominican Republic,0.7,BSCV,"molasses,caramel",3.5,4
+2143,Brazil,0.7,BSC,"honey,pepper,charcoal",3.5,3
+2144,Ecuador,0.7,BSCV,"gritty,rum,molasses",3.25,4
+2145,Ecuador,0.7,BSC,"molasses,fruit,floral",3.25,3
+2146,Mexico,0.7,BSC,"molasses,caramel",3.25,3
+2147,Bolivia,0.67,BSC,"green apple,sweet",3.25,3
+2148,Multiple Countries,0.7,BSCV,"molasses,caramel,spice",3.0,4
+2149,Papua New Guinea,0.7,BSCV,"molasses,caramel,fruit",3.0,4
+2150,Madagascar,0.7,BSC,"sticky,caramel",3.0,3
+2151,Venezuela,0.8,BSCV,"earth,savory,ham",3.0,4
+2152,Madagascar,0.7,BSCV,"molasses,off note",2.75,4
+2153,Bolivia,0.7,BSC,"candy,peanut butter,caramel",2.75,3
+2154,Brazil,0.7,BSC,"flat,cardboard,metal",2.75,3
+2155,Peru,0.7,BSCV,"perfume,chemical,soap",2.0,4
+2156,Madagascar,0.67,BS,"sweet,rich,tannic,fruit",3.75,2
+2157,Uganda,0.73,BS,"creamy,almond,butter",3.75,2
+2158,Ecuador,0.77,BS,"intense,mild coffee,rum",3.25,2
+2159,Belize,0.7,BS,"nut,raspberry,metal",3.75,2
+2160,Madagascar,0.7,BS,"bright fruit,mild sour",3.75,2
+2161,Guatemala,0.7,BSC,"walnut,cocoa,easy melt",3.75,3
+2162,Dominican Republic,0.7,BSC,"spicy,black pepper,bold",3.5,3
+2163,Ecuador,0.7,BS,"floral,earth,bourbon",3.25,2
+2164,Peru,0.7,BS,"spicy,black pepper,intense",2.75,2
+2165,Bolivia,0.77,BSC,"muted,roasted banana",3.25,3
+2166,Belize,0.77,BSC,"berry,licorice,cocoa,bitter",3.0,3
+2167,Haiti,0.72,BSC,"harsh,tobacco",2.75,3
+2168,Peru,0.7,BSC,"sandy,sweet,raisin",3.0,3
+2169,Madagascar,0.65,BSC,"sandy,sweet,blueberry",3.5,3
+2170,Ghana,0.84,BSCV,"dry,slight tart,bitter",3.0,4
+2171,Multiple Countries,0.75,BSC,"sandy,sweet,fruit",3.0,3
+2172,Côte d’Ivoire (aka Ivory Coast),0.75,BSCV,"dry,gritty,hint of fruit,sour",2.5,4
+2173,Venezuela,0.91,BS,"dry,very bland,mild bitter",2.0,2
+2174,Republic of the Congo,0.65,BSCV,"sweet,vanilla,cocoa",3.25,4
+2175,Peru,0.7,BS,"peanut butter,sour milk",3.25,2
+2176,Ecuador,0.7,BS,"pure,bold,floral",3.5,2
+2177,Colombia,0.7,BSL,"spicy,marshmallow",3.25,3
+2178,Colombia,0.7,BSL,"floral,vegetal",3.0,3
+2179,Belize,0.72,BSC,"bright fruit,cashew",3.75,3
+2180,Tanzania,0.71,BS,"bland,mild honey,sour",2.75,2
+2181,Ecuador,0.75,BSC,"strong floral,oily,bold,grass",3.25,3
+2182,Ecuador,0.81,BS,"waxy,mild fruit,floral",3.25,2
+2184,Dominican Republic,0.74,BSC,"pronounced fruit,sour",3.0,3
+2185,Venezuela,0.72,BSC,"peanut butter,soap",2.75,3
+2186,Bolivia,0.77,BSC,"sandy,sweet",3.0,3
+2187,Belize,0.7,BSC,"honey,caramel",3.5,3
+2188,Bolivia,0.7,BSC,"spicy,cocoa,sweet",3.0,3
+2189,Haiti,0.7,BSC,"metal,astringent",2.75,3
+2190,Colombia,0.7,BSC,"dull,chewy,sweet",2.75,3
+2191,Ecuador,0.7,BS,"nut,floral",3.5,2
+2192,Dominican Republic,0.72,BS,"baked,roast,coffee",3.0,2
+2193,Dominican Republic,0.7,BS*C,"heavy roast,black licorice",3.25,3
+2194,Dominican Republic,0.7,BS*C,"sandy,strawberry,coconut",2.75,3
+2195,Nicaragua,0.7,BS,"high acidity,toffee,spicy",3.25,2
+2196,Haiti,0.7,BS,"dominant roast,deep cocoa",3.25,2
+2197,Guatemala,0.7,BS,"bright fruit,heavy roast,smooth",3.75,2
+2198,Peru,0.7,BSC,"sweet,pungent grape,acidic",3.5,3
+2199,Peru,0.73,BSC,"powdery,complex,rubber",3.0,3
+2200,Peru,0.7,BS,"very sandy,spice,sweet",3.0,2
+2201,Vietnam,0.7,BS,"tart,sweet,sour,savory",2.75,2
+2202,Honduras,0.7,BS,"wood,sweet,unrefined",2.75,2
+2204,Dominican Republic,0.73,BS,"roast,wood,rubber off",2.75,2
+2205,Dominican Republic,0.68,BS,"roast,slight burnt,red fruit",3.25,2
+2206,Bolivia,0.75,BS,"roast,bitter,caramel,dairy",2.5,2
+2207,Madagascar,0.75,BS,"intense,red berry",3.5,2
+2208,Ecuador,0.75,BS,"intense,floral",3.5,2
+2209,Dominican Republic,0.75,BS,"spicy,sour,off note",2.75,2
+2210,Tanzania,0.75,BS,"dry,floral,wood",3.25,2
+2211,Peru,0.6,BSC,"coarse,sweet,lemon",3.0,3
+2213,Guatemala,0.75,BS,"dry,coarse,sour",3.25,2
+2214,Tanzania,0.75,BS,"dry,coarse,sweet,earth",3.0,2
+2215,Dominican Republic,0.75,BS,"dry,coarse,hay,off",2.75,2
+2216,Dominican Republic,0.7,BS,"tart,tang,mild cocoa",3.0,2
+2217,Nicaragua,0.74,BS,"creamy,wood,green,rubber",2.75,2
+2218,Tanzania,0.72,BS,"sandy,sweet,peach",3.25,2
+2219,Madagascar,0.72,BS,"sweet,acidic,tart",3.0,2
+2220,Venezuela,0.65,BSCV,"intense,nut,mild rubber",3.25,4
+2221,Colombia,0.7,BSC,"spice,melon,nut",3.75,3
+2222,Nicaragua,0.7,BSC,roasted cocoa,3.75,3
+2223,Belize,0.74,BSC,"roasted strawberry,bold",3.5,3
+2224,Multiple Countries,0.7,BSCVL,"subtle,smooth,earth,long",3.75,5
+2225,Madagascar,0.64,BSCVL,"red berry,rich cocoa",3.5,5
+2226,Multiple Countries,0.66,BSCVL,"slight bitter,wood",3.0,5
+2227,Venezuela,0.64,BSCVL,"modest,creamy,cocoa",3.0,5
+2228,Trinidad and Tobago,0.64,BSCVL,"nut,vegetal,sweet",2.5,5
+2229,Madagascar,0.64,BSCVL,"creamy,blueberry,raspberry",4.0,5
+2230,Venezuela,0.65,BSCVL,"sandy,vegetal,cocoa",3.75,5
+2231,Venezuela,0.64,BSCVL,"creamy,cherry",3.25,5
+2232,Multiple Countries,0.72,BSCVL,"creamy,rich,licorice",3.0,5
+2233,Multiple Countries,0.71,BSCVL,"nut,bitter dominant",2.75,5
+2234,Multiple Countries,0.85,BSCVL,"berry,tart,bitter",2.5,5
+2235,Multiple Countries,0.85,BSCVL,"creamy,fatty,very bitter",1.5,5
+2236,Dominican Republic,0.64,BSCVL,"cocoa dominant,woodsy",3.75,5
+2237,Ecuador,0.66,BSCVL,"rich cocoa,hot spice",3.75,5
+2238,Ghana,0.68,BSCVL,"creamy,cocoa,bread",3.5,5
+2239,Venezuela,0.64,BSCVL,"creamy,honey,peanut butter",4.0,5
+2240,Multiple Countries,0.56,BSCVL,"intense sweet,nut,orange",3.25,5
+2241,Venezuela,0.69,BSCVL,"green,unripened fruit,banana",4.0,5
+2242,Multiple Countries,0.7,BSCVL,"yogurt,lemon,licorice",3.5,5
+2243,Dominican Republic,0.64,BSCVL,"complex,herb,fruit,dairy",3.5,5
+2244,Peru,0.63,BSCVL,"intense,dark berry,grape",4.0,5
+2245,Multiple Countries,0.6,BSC,"intense,rich,sweet",3.25,3
+2251,Madagascar,0.72,BSC,"fatty,bland,very astringent",2.75,3
+2252,Madagascar,0.76,BSCV,"fatty,sour,spoiled",2.75,4
+2253,Madagascar,0.8,BSCV,"fatty,bitter,sour",2.75,4
+2254,Bolivia,0.7,BS,"peanut butter,coffee,mint",3.25,2
+2255,Bolivia,0.7,BS,"complex,nibs too soft",3.25,2
+2256,Dominican Republic,0.7,BS,"dark berry,roast",3.25,2
+2257,Guatemala,0.7,BS,"earth,sour,intense",3.0,2
+2258,Bolivia,0.7,BS,"smoke,earth,nut",2.75,2
+2259,Multiple Countries,0.7,BSC,"sweet,fruit,heavy roast",3.25,3
+2260,Multiple Countries,0.9,BSC,"mellow fruit,tart,mild bitter",3.75,3
+2261,Trinidad and Tobago,0.75,BSC,"spicy,roast,acidic,dairy",3.5,3
+2262,Ecuador,0.75,BSC,"spicy,nutmeg,brownie",3.5,3
+2263,Dominican Republic,0.9,BSC,"intense,cocoa,spicy,fruit",3.25,3
+2264,Vietnam,0.7,BSCL,"spicy,dairy",3.5,4
+2265,Peru,0.75,BSC,"sandy,sweet,nut",3.0,3
+2267,Ecuador,0.65,BSC,"sticky,cocoa,earth",3.0,3
+2270,Peru,0.77,BS,"chalky,peach,bland",3.25,2
+2271,Belize,0.77,BS,"mild metal,brownie,earth",3.0,2
+2272,Venezuela,0.77,BS,"intense,mild bitter,roast",3.0,2
+2273,Madagascar,0.77,BS,"intense,tart,sour,raisin",2.75,2
+2274,Guatemala,0.77,BS,"creamy,cocoa,pungent",2.75,2
+2275,Dominican Republic,0.7,BSCVL,"sweet,simple,cocoa",3.0,5
+2276,Peru,0.7,BSCVL,"pungent,metal",2.5,5
+2277,Venezuela,0.7,BSCVL,"nut,off note",2.5,5
+2278,Bolivia,0.7,BSCVL,"earth,vanilla",2.5,5
+2279,Haiti,0.7,BSCVL,"vanilla,late cocoa note",2.5,5
+2280,Dominican Republic,0.7,BS*,"dry,rich,roast",3.5,2
+2281,Peru,0.7,BS*,"grape,pungent",3.5,2
+2282,Samoa,0.77,BS,"earth,roast",3.0,2
+2283,Tanzania,0.68,BSC,"nut,fruit,poor aftertaste",3.0,3
+2284,Bolivia,0.72,BSC,"creamy,fruit,poor aftertaste",3.0,3
+2286,Peru,0.75,BSC,"sandy,sweet,coffee",3.25,3
+2287,Peru,0.89,BSC,"slow to develop,bitter,metal",2.75,3
+2288,Peru,0.75,BSC,"mild,metal",2.75,3
+2289,Peru,0.75,BSC,"light color,gritty,metal",2.5,3
+2290,Venezuela,0.72,BSC,"creamy,earth,nut",3.25,3
+2291,Peru,0.7,BSC,"sandy,rich,earth",3.0,3
+2292,Indonesia,0.69,BSC,"smoke,fruit,sour",3.75,3
+2293,Venezuela,0.72,BSC,"dry,nut,cocoa",3.5,3
+2294,Madagascar,0.71,BSC,"dry,mild fruit",3.0,3
+2296,Colombia,0.88,BSC,"mild nut,fruit,savory",3.0,3
+2297,Colombia,0.7,BSC,"rich cocoa,spicy,cinnamon",4.0,3
+2298,Ghana,0.75,BSC,"strong malt,chocolate pudding",3.75,3
+2299,Bolivia,0.76,BSC,"nut,fig,short length",3.5,3
+2300,Venezuela,0.74,BSC,"nut,rubber",3.0,3
+2301,Venezuela,0.7,BSC,"intense,creamy,nut",3.5,3
+2302,Belize,0.68,BSC,"flat,molasses,creamy",3.25,3
+2303,Venezuela,0.7,BS,"nut,tart,coffee",4.0,2
+2304,Dominican Republic,0.7,BS,"brownie,fruit,fudge",3.5,2
+2305,Madagascar,0.7,BSC,melon,3.25,3
+2306,Costa Rica,0.7,BS,"roast,metal,coffee",3.0,2
+2307,Ecuador,0.7,BS,"mild fruit,chemical off",2.5,2
+2308,Trinidad and Tobago,0.7,BS,"creamy,wood,mild metal",3.5,2
+2309,Ecuador,0.7,BS,"intense,bourbon",3.25,2
+2310,Peru,0.7,BS,"sandy,intense,mild nut",3.0,2
+2311,Dominican Republic,0.66,BSCLSa,"salt noticeable,vanilla",3.0,5
+2312,El Salvador,0.7,BSCL,"nut,basic cocoa",3.25,4
+2313,El Salvador,0.75,BSCL,"coarse,sweet,candy,licorice",3.0,4
+2314,El Salvador,0.65,BSCL,"overly sweet,dirt",2.75,4
+2315,Peru,0.7,BS,"burnt caramel,grape",3.5,2
+2316,Tanzania,0.73,BS,"sandy,earth,hint of tang",3.25,2
+2317,Nicaragua,0.72,BS,"sandy,roast,fig,late spice",3.5,2
+2318,Madagascar,0.7,BS,"sour milk,molasses,sweet",2.75,2
+2319,Dominican Republic,0.7,BS,"spicy,cardamom,off flavor",2.5,2
+2320,Belize,0.7,BSC,"rich base cocoa,sweet",3.5,3
+2321,Dominican Republic,0.7,BSC,"nut,earth,ham",3.25,3
+2322,Madagascar,0.7,BSC,"sandy,mild sour,mild fruit",3.25,3
+2323,Peru,0.7,BSC,"sandy,nut,mocha",3.25,3
+2324,Papua New Guinea,0.7,BSC,"heavy smoke,fruit,ham",3.0,3
+2325,Multiple Countries,0.6,BSC,"very sweet,heavy roast,nut",3.0,3
+2326,Madagascar,0.7,BSC,"sticky,mellow chocolate,dairy",3.5,3
+2327,Tanzania,0.7,BSC,"smoke,tart,burnt cocoa",3.5,3
+2328,Trinidad and Tobago,0.78,BS,"tobacco,overly roasted",3.5,2
+2329,Tanzania,0.85,BSC,"melon,mild tart,bitter,fatty",3.0,3
+2330,Ecuador,0.7,BSC,"sticky,off note of rubber",2.75,3
+2331,Trinidad and Tobago,0.85,BSC,"sticky,strong bitter,spice",2.75,3
+2332,Bolivia,0.72,BSCL,"intense prune,berry",3.75,4
+2333,Bolivia,0.68,BSCL,"oily,honey,light rum",3.5,4
+2334,Papua New Guinea,0.66,BSCL,"toffee,caramel,butterscotch",3.5,4
+2335,Solomon Islands,0.78,BSCL,"smoke,dried fruit,balanced",3.75,4
+2336,Multiple Countries,0.65,BSCVL,"oily,sweet,chocolate,nut",3.25,5
+2337,Nicaragua,0.7,BSC,"large grits,sweet,dried fruit",3.75,3
+2338,Nicaragua,0.75,BSC,"sandy,basic cocoa",3.25,3
+2339,Nicaragua,0.72,BSC,intense earth,3.0,3
+2340,Democratic Republic of the Congo,0.68,BS*C,"fatty,herb,earth",3.0,3
+2341,Brazil,0.65,BS*CSa,"wood,butterscotch",3.0,4
+2342,Peru,0.7,BS*CSa,"creamy,fatty,mild nut",3.75,4
+2343,India,0.65,BS*CSa,"creamy,masculine,earth",3.5,4
+2344,India,0.62,BS*CSa,"oily,subdued,caramel,salt",3.25,4
+2345,Republic of the Congo,0.65,BS*CSa,"dairy,salt,caramel",3.0,4
+2346,Dominican Republic,0.62,BS*CSa,"spice,caramel,toffee,salt",3.75,4
+2347,Dominican Republic,0.7,BS*CSa,"strawberry,cadbury egg",3.75,4
+2348,Panama,0.72,BS*CSa,"oily,earth,caramel,salt",3.5,4
+2349,Multiple Countries,0.65,BS*CSa,"dairy,burnt caramel,coffee",3.5,4
+2350,Peru,0.7,BS*CSa,"butterscotch,pepper",3.5,4
+2351,Multiple Countries,0.58,BS*CSa,"smooth,spicy,floral",3.5,4
+2352,Bolivia,0.9,BS*CSa,"smooth,intense blueberry",3.25,4
+2353,Republic of the Congo,0.68,BS*CSa,"creamy,caramel,salt,sweet",3.25,4
+2354,Peru,0.7,BS*CSa,"wood,toast,pepper",3.0,4
+2355,Ecuador,0.75,BS*CSa,"creamy,nut,bread",3.0,4
+2356,Papua New Guinea,0.75,BS*CSa,"hint of smoke,fruit",3.0,4
+2357,Multiple Countries,0.8,BS*CSa,"waxy,cloying,vegetal",2.75,4
+2358,Colombia,0.75,BSC,"strong nut,marshmallow",3.75,3
+2359,Belize,0.72,BSC,"muted,roast,accessible",3.5,3
+2360,Republic of the Congo,0.7,BSC,"fatty,mild nut,mild fruit",3.25,3
+2361,Multiple Countries,0.75,BSC,"fatty,earth,cocoa",3.0,3
