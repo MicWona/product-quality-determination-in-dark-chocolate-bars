@@ -22,7 +22,7 @@ This project only requires data from the csv found within this repository.
 - Python
 - Anaconda
 - Jupyter Notebooks
-- Tableau
+- Tableau (data story only)
 
 ## Author
 Michaela Wonacott
